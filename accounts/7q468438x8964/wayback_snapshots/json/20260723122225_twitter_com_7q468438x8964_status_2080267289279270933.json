@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2080262696805781871",
+    "created_at": "2026-07-23T12:22:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T13:22:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080267289279270933"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2039986041218592768",
+          "start": 0,
+          "username": "hibikiwataru167"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080267289279270933",
+    "in_reply_to_user_id": "2039986041218592768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080262696805781871",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hibikiwataru167 发生什么"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3360,
+        "media_key": "3_2080262630678368256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN6T10UakAAulW5.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2080262696805781871",
+        "created_at": "2026-07-23T12:22:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T13:22:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080267289279270933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2039986041218592768",
+              "start": 0,
+              "username": "hibikiwataru167"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080267289279270933",
+        "in_reply_to_user_id": "2039986041218592768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080262696805781871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hibikiwataru167 发生什么"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080262630678368256"
+          ]
+        },
+        "author_id": "2039986041218592768",
+        "conversation_id": "2080262696805781871",
+        "created_at": "2026-07-23T12:04:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T13:04:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080262696805781871"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JBteXzSU3A",
+              "end": 27,
+              "expanded_url": "https://x.com/hibikiwataru167/status/2080262696805781871/photo/1",
+              "media_key": "3_2080262630678368256",
+              "start": 4,
+              "url": "https://t.co/JBteXzSU3A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080262696805781871",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "歐晶晶 https://t.co/JBteXzSU3A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n   \n最最最最最最爱的宝宝 @FanQie_QianQian  @QianQian_TwT  @_FanQie11_\n\nHOPE HAS OVERDISED",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 20,
+                "username": "FanQie_QianQian"
+              },
+              {
+                "end": 51,
+                "start": 38,
+                "username": "QianQian_TwT"
+              },
+              {
+                "end": 64,
+                "start": 53,
+                "username": "_FanQie11_"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "pinned_tweet_id": "2065977354497978500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 528,
+          "following_count": 3430,
+          "like_count": 21466,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 5547
+        },
+        "url": "",
+        "username": "7q468438x8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-03T08:39:21.000Z",
+        "description": "廢話很多。可以叫我hibiki｜江浙滬正體字消腫逼一枚｜DM○",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuriafries",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuriafries",
+                "start": 0,
+                "url": "https://t.co/5WmYE4Ga5J"
+              }
+            ]
+          }
+        },
+        "id": "2039986041218592768",
+        "location": "一個人 一條街 一場雨 心碎一整夜",
+        "name": "響き渡る🥃",
+        "pinned_tweet_id": "2070813276167094635",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039992924474392576/YSYh1AIJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 97,
+          "like_count": 6286,
+          "listed_count": 0,
+          "media_count": 139,
+          "tweet_count": 1476
+        },
+        "url": "https://t.co/5WmYE4Ga5J",
+        "username": "hibikiwataru167",
+        "verified": false
+      }
+    ]
+  }
+}

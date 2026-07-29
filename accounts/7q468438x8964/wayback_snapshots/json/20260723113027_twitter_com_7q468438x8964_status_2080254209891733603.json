@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2080254209891733603",
+    "created_at": "2026-07-23T11:30:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T12:30:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080254209891733603"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/YuyuOw0/status…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/YuyuOw0/status/2080222882924483056",
+          "start": 5,
+          "url": "https://t.co/mMktZ3xD7N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080254209891733603",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080222882924483056",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "OwO😄 https://t.co/mMktZ3xD7N"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2080254209891733603",
+        "created_at": "2026-07-23T11:30:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T12:30:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080254209891733603"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YuyuOw0/status…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/YuyuOw0/status/2080222882924483056",
+              "start": 5,
+              "url": "https://t.co/mMktZ3xD7N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080254209891733603",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080222882924483056",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "OwO😄 https://t.co/mMktZ3xD7N"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048294267421085696",
+        "conversation_id": "2080201904886591987",
+        "created_at": "2026-07-23T09:25:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T10:25:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080222882924483056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2073780355434483712",
+              "start": 0,
+              "username": "QianQian_TwT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080222882924483056",
+        "in_reply_to_user_id": "2073780355434483712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 102,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080201904886591987",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QianQian_TwT 你他妈丑到我了能不能删了 女的都不要你还男的😂😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n   \n最最最最最最爱的宝宝 @FanQie_QianQian  @QianQian_TwT  @_FanQie11_\n\nHOPE HAS OVERDISED",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 20,
+                "username": "FanQie_QianQian"
+              },
+              {
+                "end": 51,
+                "start": 38,
+                "username": "QianQian_TwT"
+              },
+              {
+                "end": 64,
+                "start": 53,
+                "username": "_FanQie11_"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "pinned_tweet_id": "2065977354497978500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 527,
+          "following_count": 3426,
+          "like_count": 21441,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 5536
+        },
+        "url": "",
+        "username": "7q468438x8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-26T06:53:53.000Z",
+        "description": "骂我的人默认破防😂",
+        "id": "2048294267421085696",
+        "name": "Yuyu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076726507955970048/YSUEsa43_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 16,
+          "like_count": 7,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 66
+        },
+        "url": "",
+        "username": "YuyuOw0",
+        "verified": false
+      }
+    ]
+  }
+}

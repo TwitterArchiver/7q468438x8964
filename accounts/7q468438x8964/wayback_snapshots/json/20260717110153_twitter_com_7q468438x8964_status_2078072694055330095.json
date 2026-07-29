@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077896063852154880"
+      ],
+      "media_source_tweet_id": [
+        "2077896066058362880"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2078072694055330095",
+    "created_at": "2026-07-17T11:01:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T12:01:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078072694055330095"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2430796532",
+          "start": 3,
+          "username": "WeedPorns"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WQXZAH1hTC",
+          "end": 80,
+          "expanded_url": "https://x.com/WeedPorns/status/2077896066058362880/photo/1",
+          "media_key": "3_2077896063852154880",
+          "start": 57,
+          "url": "https://t.co/WQXZAH1hTC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078072694055330095",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 68
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077896066058362880",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @WeedPorns: Captured the exact moment disaster struck https://t.co/WQXZAH1hTC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1181,
+        "media_key": "3_2077896063852154880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNYrdf4XEAAgm9H.jpg",
+        "width": 950
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077896063852154880"
+          ]
+        },
+        "author_id": "2430796532",
+        "conversation_id": "2077896066058362880",
+        "created_at": "2026-07-16T23:20:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T00:20:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077896066058362880"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WQXZAH1hTC",
+              "end": 65,
+              "expanded_url": "https://x.com/WeedPorns/status/2077896066058362880/photo/1",
+              "media_key": "3_2077896063852154880",
+              "start": 42,
+              "url": "https://t.co/WQXZAH1hTC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077896066058362880",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 71,
+          "impression_count": 37447,
+          "like_count": 1450,
+          "quote_count": 11,
+          "reply_count": 31,
+          "retweet_count": 68
+        },
+        "reply_settings": "everyone",
+        "text": "Captured the exact moment disaster struck https://t.co/WQXZAH1hTC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077896063852154880"
+          ],
+          "media_source_tweet_id": [
+            "2077896066058362880"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2078072694055330095",
+        "created_at": "2026-07-17T11:01:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T12:01:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078072694055330095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2430796532",
+              "start": 3,
+              "username": "WeedPorns"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WQXZAH1hTC",
+              "end": 80,
+              "expanded_url": "https://x.com/WeedPorns/status/2077896066058362880/photo/1",
+              "media_key": "3_2077896063852154880",
+              "start": 57,
+              "url": "https://t.co/WQXZAH1hTC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078072694055330095",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 68
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077896066058362880",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @WeedPorns: Captured the exact moment disaster struck https://t.co/WQXZAH1hTC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n   \n最最最最最最爱的宝宝 @QianQian_TwT\n\nHOPE HAS OVERDISED",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 20,
+                "username": "QianQian_TwT"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "pinned_tweet_id": "2065977354497978500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 509,
+          "following_count": 3392,
+          "like_count": 20940,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 5464
+        },
+        "url": "",
+        "username": "7q468438x8964",
+        "verified": false
+      },
+      {
+        "created_at": "2014-04-06T17:48:34.000Z",
+        "description": "All the best original stoner content! Posting at 4:20pm EST every day 💨 Contact - Twitter.pb37@gmail.com ⬇️ FREE Weed ⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/weedporns",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/weedporns",
+                "start": 0,
+                "url": "https://t.co/Iw4WyLGIKW"
+              }
+            ]
+          }
+        },
+        "id": "2430796532",
+        "name": "Weed Porn",
+        "pinned_tweet_id": "2077860968764186893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/452866877698502656/2dWtZCW1_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1479196,
+          "following_count": 39,
+          "like_count": 11319,
+          "listed_count": 1732,
+          "media_count": 7343,
+          "tweet_count": 10050
+        },
+        "url": "https://t.co/Iw4WyLGIKW",
+        "username": "WeedPorns",
+        "verified": true
+      }
+    ]
+  }
+}

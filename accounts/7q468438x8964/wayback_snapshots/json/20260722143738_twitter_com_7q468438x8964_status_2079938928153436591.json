@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2079453686191866323",
+    "created_at": "2026-07-22T14:37:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T15:37:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079938928153436591"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2036516950604652545",
+          "start": 0,
+          "username": "lzb_lzb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079938928153436591",
+    "in_reply_to_user_id": "2036516950604652545",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079453686191866323",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lzb_lzb 放在外面太久氧化了吧（？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2079453675932532736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNu0GdDWwAA2w8u.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2079453686191866323",
+        "created_at": "2026-07-22T14:37:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T15:37:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079938928153436591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2036516950604652545",
+              "start": 0,
+              "username": "lzb_lzb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079938928153436591",
+        "in_reply_to_user_id": "2036516950604652545",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079453686191866323",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lzb_lzb 放在外面太久氧化了吧（？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079453675932532736"
+          ]
+        },
+        "author_id": "2036516950604652545",
+        "conversation_id": "2079453686191866323",
+        "created_at": "2026-07-21T06:29:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T07:29:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079453686191866323"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KksmqRKqrm",
+              "end": 48,
+              "expanded_url": "https://x.com/lzb_lzb/status/2079453686191866323/photo/1",
+              "media_key": "3_2079453675932532736",
+              "start": 25,
+              "url": "https://t.co/KksmqRKqrm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079453686191866323",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 219,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为啥今天出的裸盖菇是这个颜色有没有懂的来解释一下 https://t.co/KksmqRKqrm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n   \n最最最最最最爱的宝宝 @FanQie_QianQian  @QianQian_TwT  @_FanQie11_\n\nHOPE HAS OVERDISED",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 20,
+                "username": "FanQie_QianQian"
+              },
+              {
+                "end": 51,
+                "start": 38,
+                "username": "QianQian_TwT"
+              },
+              {
+                "end": 64,
+                "start": 53,
+                "username": "_FanQie11_"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "pinned_tweet_id": "2065977354497978500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 518,
+          "following_count": 3423,
+          "like_count": 21362,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 5524
+        },
+        "url": "",
+        "username": "7q468438x8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-24T18:57:30.000Z",
+        "description": "老号被封禁😮\n爱抽weed\n研究裸盖蘑菇种植中…\n⚠️境内各地出售weed🍃 ing…鸽子别来😭",
+        "id": "2036516950604652545",
+        "location": "weed！🍃",
+        "name": "L$D",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079415705624256512/y2ftQM9X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 92,
+          "like_count": 165,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 99
+        },
+        "url": "",
+        "username": "lzb_lzb",
+        "verified": false
+      }
+    ]
+  }
+}

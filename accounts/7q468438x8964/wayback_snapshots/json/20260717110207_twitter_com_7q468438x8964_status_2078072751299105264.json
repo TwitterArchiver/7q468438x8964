@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2077878496781561856"
+      ],
+      "media_source_tweet_id": [
+        "2077878528104710590"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2078072751299105264",
+    "created_at": "2026-07-17T11:02:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T12:02:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078072751299105264"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2066860626157142016",
+          "start": 3,
+          "username": "Hulkster4ever"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JTN65VmIf0",
+          "end": 42,
+          "expanded_url": "https://x.com/Hulkster4ever/status/2077878528104710590/photo/1",
+          "media_key": "16_2077878496781561856",
+          "start": 19,
+          "url": "https://t.co/JTN65VmIf0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078072751299105264",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 285
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077878528104710590",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hulkster4ever: https://t.co/JTN65VmIf0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 320,
+        "media_key": "16_2077878496781561856",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HNYbe9cWcAAZ0NE.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HNYbe9cWcAAZ0NE.mp4"
+          }
+        ],
+        "width": 320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2077878496781561856"
+          ]
+        },
+        "author_id": "2066860626157142016",
+        "conversation_id": "2077878528104710590",
+        "created_at": "2026-07-16T22:10:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T23:10:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077878528104710590"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JTN65VmIf0",
+              "end": 23,
+              "expanded_url": "https://x.com/Hulkster4ever/status/2077878528104710590/photo/1",
+              "media_key": "16_2077878496781561856",
+              "start": 0,
+              "url": "https://t.co/JTN65VmIf0"
+            },
+            {
+              "display_url": "x.com/Squigg/status/…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/Squigg/status/2077875714896933239",
+              "start": 24,
+              "url": "https://t.co/0mdFDyrSBk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077878528104710590",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 922,
+          "impression_count": 123348,
+          "like_count": 4064,
+          "quote_count": 11,
+          "reply_count": 13,
+          "retweet_count": 285
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077875714896933239",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/JTN65VmIf0 https://t.co/0mdFDyrSBk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2077878496781561856"
+          ],
+          "media_source_tweet_id": [
+            "2077878528104710590"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2078072751299105264",
+        "created_at": "2026-07-17T11:02:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T12:02:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078072751299105264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2066860626157142016",
+              "start": 3,
+              "username": "Hulkster4ever"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JTN65VmIf0",
+              "end": 42,
+              "expanded_url": "https://x.com/Hulkster4ever/status/2077878528104710590/photo/1",
+              "media_key": "16_2077878496781561856",
+              "start": 19,
+              "url": "https://t.co/JTN65VmIf0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078072751299105264",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 285
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077878528104710590",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hulkster4ever: https://t.co/JTN65VmIf0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n   \n最最最最最最爱的宝宝 @QianQian_TwT\n\nHOPE HAS OVERDISED",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 20,
+                "username": "QianQian_TwT"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "pinned_tweet_id": "2065977354497978500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 509,
+          "following_count": 3392,
+          "like_count": 20944,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 5466
+        },
+        "url": "",
+        "username": "7q468438x8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-16T12:30:07.000Z",
+        "description": "fuck you elon",
+        "id": "2066860626157142016",
+        "name": "Hulkster",
+        "pinned_tweet_id": "2077878528104710590",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066861262005297152/BQEKzDuk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 134,
+          "like_count": 1769,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 273
+        },
+        "url": "",
+        "username": "Hulkster4ever",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2077274109072019526",
+    "created_at": "2026-07-15T06:08:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T07:08:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077274109072019526"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1991711672684421121",
+          "start": 3,
+          "username": "pearl0812lucky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077274109072019526",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 104
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076950705022406802",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pearl0812lucky: 对不起，我不该时刻盯着你的消息框等待，一点点冷淡就暗自难过，把你的随口承诺反复回味，过度解读你的语气，频繁索要你的偏爱证明，害怕新鲜感慢慢褪去，不敢主动说出心里委屈，看到你忽略我就胡思乱想，一安静就脑补你不爱我，强求你时刻和我保持同频，总…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2077274109072019526",
+        "created_at": "2026-07-15T06:08:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T07:08:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077274109072019526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1991711672684421121",
+              "start": 3,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077274109072019526",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 104
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076950705022406802",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pearl0812lucky: 对不起，我不该时刻盯着你的消息框等待，一点点冷淡就暗自难过，把你的随口承诺反复回味，过度解读你的语气，频繁索要你的偏爱证明，害怕新鲜感慢慢褪去，不敢主动说出心里委屈，看到你忽略我就胡思乱想，一安静就脑补你不爱我，强求你时刻和我保持同频，总…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2076950705022406802",
+        "created_at": "2026-07-14T08:43:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T09:43:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076950705022406802"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076950705022406802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 18709,
+          "like_count": 633,
+          "quote_count": 12,
+          "reply_count": 75,
+          "retweet_count": 104
+        },
+        "reply_settings": "everyone",
+        "text": "对不起，我不该时刻盯着你的消息框等待，一点点冷淡就暗自难过，把你的随口承诺反复回味，过度解读你的语气，频繁索要你的偏爱证明，害怕新鲜感慢慢褪去，不敢主动说出心里委屈，看到你忽略我就胡思乱想，一安静就脑补你不爱我，强求你时刻和我保持同频，总想抓住你不肯轻易放手，因为小事争执就掉眼泪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n   \n最最最最最最爱的宝宝 @QianQian_TwT\n\nHOPE HAS OVERDISED",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 20,
+                "username": "QianQian_TwT"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "pinned_tweet_id": "2065977354497978500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 507,
+          "following_count": 3403,
+          "like_count": 20795,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 5451
+        },
+        "url": "",
+        "username": "7q468438x8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10895,
+          "following_count": 73,
+          "like_count": 8921,
+          "listed_count": 10,
+          "media_count": 197,
+          "tweet_count": 2087
+        },
+        "url": "",
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

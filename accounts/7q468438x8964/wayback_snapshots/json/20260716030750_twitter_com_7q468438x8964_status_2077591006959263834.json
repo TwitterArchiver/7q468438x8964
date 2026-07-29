@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2077314797742538752"
+      ],
+      "media_source_tweet_id": [
+        "2077315295790932042"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2077591006959263834",
+    "created_at": "2026-07-16T03:07:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T04:07:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077591006959263834"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1781405364245737472",
+          "start": 3,
+          "username": "G0NE____"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gJkZaTsvBg",
+          "end": 37,
+          "expanded_url": "https://x.com/G0NE____/status/2077315295790932042/photo/1",
+          "media_key": "16_2077314797742538752",
+          "start": 14,
+          "url": "https://t.co/gJkZaTsvBg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077591006959263834",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1214
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077315295790932042",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @G0NE____: https://t.co/gJkZaTsvBg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 558,
+        "media_key": "16_2077314797742538752",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HNQazW4bQAAgasf.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HNQazW4bQAAgasf.mp4"
+          }
+        ],
+        "width": 662
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2077314797742538752"
+          ],
+          "media_source_tweet_id": [
+            "2077315295790932042"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2077591006959263834",
+        "created_at": "2026-07-16T03:07:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T04:07:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077591006959263834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1781405364245737472",
+              "start": 3,
+              "username": "G0NE____"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gJkZaTsvBg",
+              "end": 37,
+              "expanded_url": "https://x.com/G0NE____/status/2077315295790932042/photo/1",
+              "media_key": "16_2077314797742538752",
+              "start": 14,
+              "url": "https://t.co/gJkZaTsvBg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077591006959263834",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1214
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077315295790932042",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @G0NE____: https://t.co/gJkZaTsvBg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2077314797742538752"
+          ]
+        },
+        "author_id": "1781405364245737472",
+        "conversation_id": "2077315295790932042",
+        "created_at": "2026-07-15T08:52:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T09:52:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077315295790932042"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gJkZaTsvBg",
+              "end": 23,
+              "expanded_url": "https://x.com/G0NE____/status/2077315295790932042/photo/1",
+              "media_key": "16_2077314797742538752",
+              "start": 0,
+              "url": "https://t.co/gJkZaTsvBg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077315295790932042",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2777,
+          "impression_count": 204962,
+          "like_count": 15558,
+          "quote_count": 14,
+          "reply_count": 29,
+          "retweet_count": 1214
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/gJkZaTsvBg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n   \n最最最最最最爱的宝宝 @QianQian_TwT\n\nHOPE HAS OVERDISED",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 20,
+                "username": "QianQian_TwT"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "pinned_tweet_id": "2065977354497978500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 507,
+          "following_count": 3394,
+          "like_count": 20844,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 5454
+        },
+        "url": "",
+        "username": "7q468438x8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-19T19:31:59.000Z",
+        "description": "@McGrill11 the 3rd 🦆                                                    Just a duck at ur local pond 『22』\nalt: @Burner00900",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "McGrill11"
+              },
+              {
+                "end": 123,
+                "start": 111,
+                "username": "Burner00900"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "media.tenor.com/2wPCzBrKJP8AAA…",
+                "end": 23,
+                "expanded_url": "https://media.tenor.com/2wPCzBrKJP8AAAAM/hyper-anime.gif",
+                "start": 0,
+                "url": "https://t.co/7PgUvOuOPY"
+              }
+            ]
+          }
+        },
+        "id": "1781405364245737472",
+        "location": "Tiananmen Square ",
+        "name": "McGriller🦆",
+        "pinned_tweet_id": "2049810872369926285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022899560280911872/vr3SqGPv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4249,
+          "following_count": 1289,
+          "like_count": 51548,
+          "listed_count": 22,
+          "media_count": 1967,
+          "tweet_count": 5237
+        },
+        "url": "https://t.co/7PgUvOuOPY",
+        "username": "G0NE____",
+        "verified": true
+      }
+    ]
+  }
+}

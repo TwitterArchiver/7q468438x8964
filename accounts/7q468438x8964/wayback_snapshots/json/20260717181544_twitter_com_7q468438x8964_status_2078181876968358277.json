@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2078181876968358277",
+    "created_at": "2026-07-17T18:15:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T19:15:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078181876968358277"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1514554987719770118",
+          "start": 3,
+          "username": "Thootie_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078181876968358277",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077993140049584268",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Thootie_: 找个脾气软烂一点的 身材紧致一点的 腰细一点肩宽一点 脸帅一点的 乖的 闷骚的 自卑的 腹黑的 敏感的 可以陪我打各种游戏都厉害的 占有欲强的 粘人的 焦虑型依恋的小男孩安稳过一辈子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2078181876968358277",
+        "created_at": "2026-07-17T18:15:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T19:15:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078181876968358277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1514554987719770118",
+              "start": 3,
+              "username": "Thootie_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078181876968358277",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077993140049584268",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Thootie_: 找个脾气软烂一点的 身材紧致一点的 腰细一点肩宽一点 脸帅一点的 乖的 闷骚的 自卑的 腹黑的 敏感的 可以陪我打各种游戏都厉害的 占有欲强的 粘人的 焦虑型依恋的小男孩安稳过一辈子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1514554987719770118",
+        "conversation_id": "2077993140049584268",
+        "created_at": "2026-07-17T05:45:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T06:45:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077993140049584268"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077993140049584268",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 8025,
+          "like_count": 172,
+          "quote_count": 1,
+          "reply_count": 59,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "找个脾气软烂一点的 身材紧致一点的 腰细一点肩宽一点 脸帅一点的 乖的 闷骚的 自卑的 腹黑的 敏感的 可以陪我打各种游戏都厉害的 占有欲强的 粘人的 焦虑型依恋的小男孩安稳过一辈子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n   \n最最最最最最爱的宝宝 @QianQian_TwT\n\nHOPE HAS OVERDISED",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 20,
+                "username": "QianQian_TwT"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "pinned_tweet_id": "2065977354497978500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 506,
+          "following_count": 3393,
+          "like_count": 21017,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 5480
+        },
+        "url": "",
+        "username": "7q468438x8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-14T10:43:55.000Z",
+        "description": "我从来不穿内裤因为巨龙不该被束缚",
+        "id": "1514554987719770118",
+        "location": "打赏解锁",
+        "name": "STILNOX",
+        "pinned_tweet_id": "2067183615897915603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076608132403597312/Vs_P_UXV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2681,
+          "following_count": 480,
+          "like_count": 6960,
+          "listed_count": 9,
+          "media_count": 537,
+          "tweet_count": 2487
+        },
+        "url": "",
+        "username": "Thootie_",
+        "verified": false
+      }
+    ]
+  }
+}

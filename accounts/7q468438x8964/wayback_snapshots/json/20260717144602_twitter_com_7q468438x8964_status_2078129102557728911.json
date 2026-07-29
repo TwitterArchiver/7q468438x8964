@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2077425672700514304"
+      ],
+      "media_source_tweet_id": [
+        "2077425687086916019"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2078129102557728911",
+    "created_at": "2026-07-17T14:46:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T15:46:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078129102557728911"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fduIbFtt1O",
+          "end": 34,
+          "expanded_url": "https://x.com/Arzoo4560/status/2077425687086916019/video/1",
+          "media_key": "13_2077425672700514304",
+          "start": 11,
+          "url": "https://t.co/fduIbFtt1O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078129102557728911",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Chill guy  https://t.co/fduIbFtt1O"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2000,
+        "height": 720,
+        "media_key": "13_2077425672700514304",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2077425672700514304/img/LkZ3tQSRylD4hAH0.jpg",
+        "public_metrics": {
+          "view_count": 265998
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077425672700514304/vid/avc1/360x270/QS_wQh49NKzkKlg9.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077425672700514304/vid/avc1/480x360/YdwGzO8aHV7MPnKZ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077425672700514304/vid/avc1/960x720/wmAGM6In-nSE-lWy.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2077425672700514304/pl/nssuCv5rSosH6k1l.m3u8"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2077425672700514304"
+          ]
+        },
+        "author_id": "1467027103493275652",
+        "conversation_id": "2077425687086916019",
+        "created_at": "2026-07-15T16:10:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T17:10:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077425687086916019"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QCIesbIdB0",
+              "end": 23,
+              "expanded_url": "https://x.com/Arzoo4560/status/2077425687086916019/video/1",
+              "media_key": "13_2077425672700514304",
+              "start": 0,
+              "url": "https://t.co/QCIesbIdB0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077425687086916019",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4536,
+          "impression_count": 1591578,
+          "like_count": 48529,
+          "quote_count": 651,
+          "reply_count": 167,
+          "retweet_count": 10106
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/QCIesbIdB0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2077425672700514304"
+          ],
+          "media_source_tweet_id": [
+            "2077425687086916019"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2078129102557728911",
+        "created_at": "2026-07-17T14:46:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T15:46:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078129102557728911"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fduIbFtt1O",
+              "end": 34,
+              "expanded_url": "https://x.com/Arzoo4560/status/2077425687086916019/video/1",
+              "media_key": "13_2077425672700514304",
+              "start": 11,
+              "url": "https://t.co/fduIbFtt1O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078129102557728911",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Chill guy  https://t.co/fduIbFtt1O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n   \n最最最最最最爱的宝宝 @QianQian_TwT\n\nHOPE HAS OVERDISED",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 20,
+                "username": "QianQian_TwT"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "pinned_tweet_id": "2065977354497978500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 509,
+          "following_count": 3393,
+          "like_count": 20979,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 5470
+        },
+        "url": "",
+        "username": "7q468438x8964",
+        "verified": false
+      }
+    ]
+  }
+}

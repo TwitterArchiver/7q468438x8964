@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2078602997517664256"
+      ],
+      "media_source_tweet_id": [
+        "2078603013485433295"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2078800715343159359",
+    "created_at": "2026-07-19T11:14:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T12:14:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078800715343159359"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1931819404867911680",
+          "start": 3,
+          "username": "Jason731499"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NGKuMwChkq",
+          "end": 40,
+          "expanded_url": "https://x.com/Jason731499/status/2078603013485433295/video/1",
+          "media_key": "13_2078602997517664256",
+          "start": 17,
+          "url": "https://t.co/NGKuMwChkq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078800715343159359",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 624
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078603013485433295",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Jason731499: https://t.co/NGKuMwChkq"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9733,
+        "height": 1040,
+        "media_key": "13_2078602997517664256",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2078602997517664256/img/Ze514SFA50EY0XFI.jpg",
+        "public_metrics": {
+          "view_count": 94632
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078602997517664256/vid/avc1/332x270/woKyUJFCkiNNMylK.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078602997517664256/vid/avc1/442x360/uu4MgwoIkkKpP-E3.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078602997517664256/vid/avc1/886x720/2BLNHdw4u5c-zvrU.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2078602997517664256/pl/LSytoMmzV484K9bB.m3u8?tag=14"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2078602997517664256"
+          ]
+        },
+        "author_id": "1931819404867911680",
+        "conversation_id": "2078603013485433295",
+        "created_at": "2026-07-18T22:09:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T23:09:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078603013485433295"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NGKuMwChkq",
+              "end": 23,
+              "expanded_url": "https://x.com/Jason731499/status/2078603013485433295/video/1",
+              "media_key": "13_2078602997517664256",
+              "start": 0,
+              "url": "https://t.co/NGKuMwChkq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078603013485433295",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1528,
+          "impression_count": 198041,
+          "like_count": 10826,
+          "quote_count": 17,
+          "reply_count": 39,
+          "retweet_count": 624
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/NGKuMwChkq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2078602997517664256"
+          ],
+          "media_source_tweet_id": [
+            "2078603013485433295"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2078800715343159359",
+        "created_at": "2026-07-19T11:14:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T12:14:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078800715343159359"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1931819404867911680",
+              "start": 3,
+              "username": "Jason731499"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NGKuMwChkq",
+              "end": 40,
+              "expanded_url": "https://x.com/Jason731499/status/2078603013485433295/video/1",
+              "media_key": "13_2078602997517664256",
+              "start": 17,
+              "url": "https://t.co/NGKuMwChkq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078800715343159359",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 624
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078603013485433295",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Jason731499: https://t.co/NGKuMwChkq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n   \n最最最最最最爱的宝宝 @FanQie_QianQian \n\nHOPE HAS OVERDISED",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 20,
+                "username": "FanQie_QianQian"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "pinned_tweet_id": "2065977354497978500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 512,
+          "following_count": 3412,
+          "like_count": 21121,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 5495
+        },
+        "url": "",
+        "username": "7q468438x8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-08T21:03:42.000Z",
+        "description": "finally unlocked after 300 appeals",
+        "id": "1931819404867911680",
+        "name": "Jason7314",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068944001924046848/paA3znSF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3284,
+          "following_count": 2634,
+          "like_count": 12358,
+          "listed_count": 1,
+          "media_count": 1354,
+          "tweet_count": 2778
+        },
+        "url": "",
+        "username": "Jason731499",
+        "verified": false
+      }
+    ]
+  }
+}

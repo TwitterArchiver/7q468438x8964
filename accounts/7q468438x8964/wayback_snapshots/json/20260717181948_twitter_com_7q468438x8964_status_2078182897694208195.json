@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077120524790927360"
+      ],
+      "media_source_tweet_id": [
+        "2077332353475821991"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2078182897694208195",
+    "created_at": "2026-07-17T18:19:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T19:19:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078182897694208195"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1798244538508591104",
+          "start": 3,
+          "username": "l3wd_land"
+        },
+        {
+          "end": 46,
+          "id": "988034372325359616",
+          "start": 36,
+          "username": "FuzzLogik"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Z8qGRajj53",
+          "end": 70,
+          "expanded_url": "https://x.com/l3wd_land/status/2077332353475821991/photo/1",
+          "media_key": "3_2077120524790927360",
+          "start": 47,
+          "url": "https://t.co/Z8qGRajj53"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078182897694208195",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 595
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077332353475821991",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @l3wd_land: She's stinky...\n\nBy: @FuzzLogik https://t.co/Z8qGRajj53"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2102,
+        "media_key": "3_2077120524790927360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNNqHLvWEAAnVfz.jpg",
+        "width": 1865
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077120524790927360"
+          ]
+        },
+        "author_id": "1798244538508591104",
+        "conversation_id": "2077332353475821991",
+        "created_at": "2026-07-15T10:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T11:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077332353475821991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 31,
+              "id": "988034372325359616",
+              "start": 21,
+              "username": "FuzzLogik"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z8qGRajj53",
+              "end": 55,
+              "expanded_url": "https://x.com/l3wd_land/status/2077332353475821991/photo/1",
+              "media_key": "3_2077120524790927360",
+              "start": 32,
+              "url": "https://t.co/Z8qGRajj53"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077332353475821991",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 2725,
+          "impression_count": 73254,
+          "like_count": 10501,
+          "quote_count": 3,
+          "reply_count": 10,
+          "retweet_count": 595
+        },
+        "reply_settings": "everyone",
+        "text": "She's stinky...\n\nBy: @FuzzLogik https://t.co/Z8qGRajj53"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077120524790927360"
+          ],
+          "media_source_tweet_id": [
+            "2077332353475821991"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2078182897694208195",
+        "created_at": "2026-07-17T18:19:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T19:19:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078182897694208195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1798244538508591104",
+              "start": 3,
+              "username": "l3wd_land"
+            },
+            {
+              "end": 46,
+              "id": "988034372325359616",
+              "start": 36,
+              "username": "FuzzLogik"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z8qGRajj53",
+              "end": 70,
+              "expanded_url": "https://x.com/l3wd_land/status/2077332353475821991/photo/1",
+              "media_key": "3_2077120524790927360",
+              "start": 47,
+              "url": "https://t.co/Z8qGRajj53"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078182897694208195",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 595
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077332353475821991",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @l3wd_land: She's stinky...\n\nBy: @FuzzLogik https://t.co/Z8qGRajj53"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n   \n最最最最最最爱的宝宝 @QianQian_TwT\n\nHOPE HAS OVERDISED",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 20,
+                "username": "QianQian_TwT"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "pinned_tweet_id": "2065977354497978500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 506,
+          "following_count": 3393,
+          "like_count": 21020,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 5481
+        },
+        "url": "",
+        "username": "7q468438x8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-05T06:45:04.000Z",
+        "description": "| He/Him | Bi | Soft Dom | 25 yo | DMs Open for everyone | promo closed | Art not mine | MDNI | join here for more stuff! 👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/the-lewd-land",
+                "end": 23,
+                "expanded_url": "https://discord.gg/the-lewd-land",
+                "start": 0,
+                "url": "https://t.co/EBnlKma94F"
+              }
+            ]
+          }
+        },
+        "id": "1798244538508591104",
+        "name": "l3wd land 🔞 (530K ✨ )",
+        "pinned_tweet_id": "2042617473296416893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022874132011192323/vJw0igtl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 532828,
+          "following_count": 1306,
+          "like_count": 40951,
+          "listed_count": 1107,
+          "media_count": 3254,
+          "tweet_count": 234323
+        },
+        "url": "https://t.co/EBnlKma94F",
+        "username": "l3wd_land",
+        "verified": true,
+        "withheld": {
+          "country_codes": [
+            "ID",
+            "PK"
+          ]
+        }
+      },
+      {
+        "created_at": "2018-04-22T12:38:45.000Z",
+        "description": ":V",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/fuzzlogik",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/fuzzlogik",
+                "start": 0,
+                "url": "https://t.co/8SU67As5Mk"
+              }
+            ]
+          }
+        },
+        "id": "988034372325359616",
+        "name": "Fuzzy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052223141691396096/OpLUT93-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24080,
+          "following_count": 67,
+          "like_count": 1691,
+          "listed_count": 94,
+          "media_count": 1187,
+          "tweet_count": 2018
+        },
+        "url": "https://t.co/8SU67As5Mk",
+        "username": "FuzzLogik",
+        "verified": false,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      }
+    ]
+  }
+}

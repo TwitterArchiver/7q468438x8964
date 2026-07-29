@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2077673080084951040"
+      ],
+      "media_source_tweet_id": [
+        "2077730466501898319"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2078077272624660807",
+    "created_at": "2026-07-17T11:20:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T12:20:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078077272624660807"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1739880218347937792",
+          "start": 3,
+          "username": "kitten_zukan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qWcqazMS1b",
+          "end": 41,
+          "expanded_url": "https://x.com/kitten_zukan/status/2077730466501898319/video/1",
+          "media_key": "13_2077673080084951040",
+          "start": 18,
+          "url": "https://t.co/qWcqazMS1b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078077272624660807",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 789
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077730466501898319",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kitten_zukan: https://t.co/qWcqazMS1b"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15023,
+        "height": 1138,
+        "media_key": "13_2077673080084951040",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2077673080084951040/img/1MJMNJq4ZTnp29eH.jpg",
+        "public_metrics": {
+          "view_count": 36034
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077673080084951040/vid/avc1/320x568/PW7u5js0_Fd_77eE.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077673080084951040/vid/avc1/480x852/yzHY6PScNsi7iYQ0.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077673080084951040/vid/avc1/640x1138/y5CMkhhgzulp36o1.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2077673080084951040/pl/ZJtQO3egWy8Wt0Y0.m3u8?v=cfc"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2077673080084951040"
+          ]
+        },
+        "author_id": "1739880218347937792",
+        "conversation_id": "2077730466501898319",
+        "created_at": "2026-07-16T12:22:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T13:22:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077730466501898319"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qWcqazMS1b",
+              "end": 23,
+              "expanded_url": "https://x.com/kitten_zukan/status/2077730466501898319/video/1",
+              "media_key": "13_2077673080084951040",
+              "start": 0,
+              "url": "https://t.co/qWcqazMS1b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077730466501898319",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 855,
+          "impression_count": 178159,
+          "like_count": 7065,
+          "quote_count": 128,
+          "reply_count": 48,
+          "retweet_count": 789
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/qWcqazMS1b"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2077673080084951040"
+          ],
+          "media_source_tweet_id": [
+            "2077730466501898319"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2078077272624660807",
+        "created_at": "2026-07-17T11:20:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T12:20:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078077272624660807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1739880218347937792",
+              "start": 3,
+              "username": "kitten_zukan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qWcqazMS1b",
+              "end": 41,
+              "expanded_url": "https://x.com/kitten_zukan/status/2077730466501898319/video/1",
+              "media_key": "13_2077673080084951040",
+              "start": 18,
+              "url": "https://t.co/qWcqazMS1b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078077272624660807",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 789
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077730466501898319",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kitten_zukan: https://t.co/qWcqazMS1b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n   \n最最最最最最爱的宝宝 @QianQian_TwT\n\nHOPE HAS OVERDISED",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 20,
+                "username": "QianQian_TwT"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "pinned_tweet_id": "2065977354497978500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 509,
+          "following_count": 3392,
+          "like_count": 20969,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 5467
+        },
+        "url": "",
+        "username": "7q468438x8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-27T05:25:51.000Z",
+        "description": "こねこ大量発生中につきご注意ください ฅ^.ˬ.^ฅ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/kitten_zukan/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/kitten_zukan/",
+                "start": 0,
+                "url": "https://t.co/wVbDtKSAWz"
+              }
+            ]
+          }
+        },
+        "id": "1739880218347937792",
+        "location": "Cat Tower",
+        "name": "こねこ図鑑",
+        "pinned_tweet_id": "2077730466501898319",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808122021513224192/uvEjL6Qu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45106,
+          "following_count": 5811,
+          "like_count": 28692,
+          "listed_count": 205,
+          "media_count": 5606,
+          "tweet_count": 6740
+        },
+        "url": "https://t.co/wVbDtKSAWz",
+        "username": "kitten_zukan",
+        "verified": true
+      }
+    ]
+  }
+}

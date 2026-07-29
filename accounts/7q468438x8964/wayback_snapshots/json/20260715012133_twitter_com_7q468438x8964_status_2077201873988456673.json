@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2077201873988456673",
+    "created_at": "2026-07-15T01:21:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T02:21:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077201873988456673"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1660510716934361088",
+          "start": 3,
+          "username": "S_Studio42"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077201873988456673",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 37
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076963924210237591",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @S_Studio42: 你既不约炮，也不将就，从社交数量和行为模式来看，也没什么恋爱的机会。\n这是可以预测的那个，对吧，就是那个……保持处子终身。\n\n你轻松成为了童话故事般的角色呢。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2077201873988456673",
+        "created_at": "2026-07-15T01:21:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T02:21:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077201873988456673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1660510716934361088",
+              "start": 3,
+              "username": "S_Studio42"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077201873988456673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 37
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076963924210237591",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @S_Studio42: 你既不约炮，也不将就，从社交数量和行为模式来看，也没什么恋爱的机会。\n这是可以预测的那个，对吧，就是那个……保持处子终身。\n\n你轻松成为了童话故事般的角色呢。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1660510716934361088",
+        "conversation_id": "2076963924210237591",
+        "created_at": "2026-07-14T09:36:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T10:36:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076963924210237591"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076963924210237591",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 55,
+          "impression_count": 67347,
+          "like_count": 929,
+          "quote_count": 32,
+          "reply_count": 220,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "你既不约炮，也不将就，从社交数量和行为模式来看，也没什么恋爱的机会。\n这是可以预测的那个，对吧，就是那个……保持处子终身。\n\n你轻松成为了童话故事般的角色呢。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n   \n最最最最最最爱的宝宝 @QianQian_TwT\n\nHOPE HAS OVERDISED",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 20,
+                "username": "QianQian_TwT"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "pinned_tweet_id": "2065977354497978500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 507,
+          "following_count": 3403,
+          "like_count": 20787,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 5449
+        },
+        "url": "",
+        "username": "7q468438x8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-22T04:59:51.000Z",
+        "description": "在冒犯之前，容许我鞠躬。",
+        "id": "1660510716934361088",
+        "name": "𝐒𝐨𝐭𝐚",
+        "pinned_tweet_id": "2046830700196933905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1717815555242287104/ldxEV5Sk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82224,
+          "following_count": 92,
+          "like_count": 12582,
+          "listed_count": 137,
+          "media_count": 15,
+          "tweet_count": 2735
+        },
+        "url": "",
+        "username": "S_Studio42",
+        "verified": false
+      }
+    ]
+  }
+}
