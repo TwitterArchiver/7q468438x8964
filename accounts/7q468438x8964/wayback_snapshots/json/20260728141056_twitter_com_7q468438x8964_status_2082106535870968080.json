@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2082106535870968080",
+    "created_at": "2026-07-28T14:10:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T15:10:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082106535870968080"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2008420775204896768",
+          "start": 3,
+          "username": "Yuki312813"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082106535870968080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081663258172490189",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yuki312813: 听我说！抑郁症，双相情感障碍，精神分裂和le都已经不酷也不小众了！现在最小众的是狂犬病！我已经得上狂犬病变成狼人模样了！班上许多人都很同情我和羡慕我，如果你想变得和我一样酷！我二奶奶家有只疯狗！咬一次20元，不得病不要钱！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2082106535870968080",
+        "created_at": "2026-07-28T14:10:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T15:10:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082106535870968080"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2008420775204896768",
+              "start": 3,
+              "username": "Yuki312813"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082106535870968080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081663258172490189",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yuki312813: 听我说！抑郁症，双相情感障碍，精神分裂和le都已经不酷也不小众了！现在最小众的是狂犬病！我已经得上狂犬病变成狼人模样了！班上许多人都很同情我和羡慕我，如果你想变得和我一样酷！我二奶奶家有只疯狗！咬一次20元，不得病不要钱！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2081663258172490189",
+        "created_at": "2026-07-27T08:49:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T09:49:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081663258172490189"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081663258172490189",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4626,
+          "like_count": 137,
+          "quote_count": 3,
+          "reply_count": 43,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "听我说！抑郁症，双相情感障碍，精神分裂和le都已经不酷也不小众了！现在最小众的是狂犬病！我已经得上狂犬病变成狼人模样了！班上许多人都很同情我和羡慕我，如果你想变得和我一样酷！我二奶奶家有只疯狗！咬一次20元，不得病不要钱！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n   \n最最最最最最爱的宝宝 @FanQie_QianQian  @QianQian_TwT  @_FanQie11_\n\nHOPE HAS OVERDISED",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 20,
+                "username": "FanQie_QianQian"
+              },
+              {
+                "end": 51,
+                "start": 38,
+                "username": "QianQian_TwT"
+              },
+              {
+                "end": 64,
+                "start": 53,
+                "username": "_FanQie11_"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "pinned_tweet_id": "2065977354497978500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080615714399092736/jHgp3BCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 542,
+          "following_count": 3426,
+          "like_count": 22060,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 5574
+        },
+        "url": "",
+        "username": "7q468438x8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "愿黑星照常升起",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2081918357176283181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080084562248429568/-EQjYsGH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 337,
+          "like_count": 5525,
+          "listed_count": 0,
+          "media_count": 374,
+          "tweet_count": 3866
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      }
+    ]
+  }
+}
