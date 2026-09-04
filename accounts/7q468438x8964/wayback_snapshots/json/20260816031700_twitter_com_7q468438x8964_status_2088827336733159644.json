@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2088827336733159644",
+    "created_at": "2026-08-16T03:17:00.000Z",
+    "display_text_range": [
+      0,
+      70
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T04:17:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088827336733159644"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2063228399586541568",
+          "start": 3,
+          "username": "_FanQie11_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088827336733159644",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088818610223403350",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_FanQie11_: 前世互關回來吧。請幫我轉發。我需要你們我不能沒有我的互關們。。眼熟的我都會回fo的。拜託了我真的好累好累。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2088827336733159644",
+        "created_at": "2026-08-16T03:17:00.000Z",
+        "display_text_range": [
+          0,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T04:17:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088827336733159644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2063228399586541568",
+              "start": 3,
+              "username": "_FanQie11_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088827336733159644",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088818610223403350",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_FanQie11_: 前世互關回來吧。請幫我轉發。我需要你們我不能沒有我的互關們。。眼熟的我都會回fo的。拜託了我真的好累好累。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063228399586541568",
+        "conversation_id": "2088818610223403350",
+        "created_at": "2026-08-16T02:42:19.000Z",
+        "display_text_range": [
+          0,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T03:42:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088818610223403350"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_FanQie11_/sta…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/_FanQie11_/status/2088818236741816403",
+              "start": 55,
+              "url": "https://t.co/jb02fwcJOu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088818610223403350",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088818236741816403",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "前世互關回來吧。請幫我轉發。我需要你們我不能沒有我的互關們。。眼熟的我都會回fo的。拜託了我真的好累好累。。 https://t.co/jb02fwcJOu"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n   \n最最最最最最爱的宝宝  @QianQian_8964 @QianQian_8964_ @_FanQie11_\n\nHOPE HAS OVERDISED",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "QianQian_8964"
+              },
+              {
+                "end": 51,
+                "start": 36,
+                "username": "QianQian_8964_"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "_FanQie11_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cleaningfounta…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cleaningfountain",
+                "start": 0,
+                "url": "https://t.co/cEoqqH1PbX"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "is_identity_verified": false,
+        "location": "1q84",
+        "most_recent_tweet_id": "2088827346325479564",
+        "name": "1.538964",
+        "pinned_tweet_id": "2065977354497978500",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1922574083348414464/1784892530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080615714399092736/jHgp3BCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 616,
+          "following_count": 3343,
+          "like_count": 22830,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 5639
+        },
+        "url": "https://t.co/cEoqqH1PbX",
+        "username": "7q468438x8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-06T11:59:22.000Z",
+        "description": "",
+        "id": "2063228399586541568",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088818610223403350",
+        "name": "番茄操蛋",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088817754745053184/CrWfdunH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 117,
+          "like_count": 1836,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 1061
+        },
+        "url": "",
+        "username": "_FanQie11_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

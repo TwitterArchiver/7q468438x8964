@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2086615763901882744",
+    "created_at": "2026-08-11T01:12:09.000Z",
+    "display_text_range": [
+      32,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T02:12:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086983979622949070"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "786464617031733248",
+          "start": 0,
+          "username": "QueerMasculism"
+        },
+        {
+          "end": 31,
+          "id": "1918274202580467713",
+          "start": 16,
+          "username": "CyberKanjousen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086983979622949070",
+    "in_reply_to_user_id": "786464617031733248",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086656269793009823",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QueerMasculism @CyberKanjousen 解法？！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2086615763901882744",
+        "created_at": "2026-08-11T01:12:09.000Z",
+        "display_text_range": [
+          32,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T02:12:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086983979622949070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "786464617031733248",
+              "start": 0,
+              "username": "QueerMasculism"
+            },
+            {
+              "end": 31,
+              "id": "1918274202580467713",
+              "start": 16,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086983979622949070",
+        "in_reply_to_user_id": "786464617031733248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086656269793009823",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QueerMasculism @CyberKanjousen 解法？！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "786464617031733248",
+        "conversation_id": "2086615763901882744",
+        "created_at": "2026-08-10T03:29:57.000Z",
+        "display_text_range": [
+          16,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T04:29:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086656269793009823"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086656269793009823",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 307,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086615763901882744",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 把家长经由照料劳动而与孩子形成的情感联结归结于血缘神话或者说血缘迷思是父权制的文化支柱没有之一。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n   \n最最最最最最爱的宝宝  @QianQian_TwT  @_FanQie11_\n\nHOPE HAS OVERDISED",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 21,
+                "username": "QianQian_TwT"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "_FanQie11_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cleaningfounta…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cleaningfountain",
+                "start": 0,
+                "url": "https://t.co/cEoqqH1PbX"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "is_identity_verified": false,
+        "location": "1q84",
+        "most_recent_tweet_id": "2086983979622949070",
+        "name": "1.538964",
+        "pinned_tweet_id": "2065977354497978500",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1922574083348414464/1784892530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080615714399092736/jHgp3BCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 605,
+          "following_count": 3346,
+          "like_count": 22713,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 5610
+        },
+        "url": "https://t.co/cEoqqH1PbX",
+        "username": "7q468438x8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-10-13T07:12:31.000Z",
+        "description": "左翼男性主义 | 酷儿男性主义 | 后女性主义 | 音羽中思想 | 实践-理论-实践 | 推翻女本位经济 | 在扬弃了女性主义的基础上走向未来 | 天然进步的amab",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/454038240",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/454038240",
+                "start": 0,
+                "url": "https://t.co/T15vXo3Mib"
+              }
+            ]
+          }
+        },
+        "id": "786464617031733248",
+        "is_identity_verified": false,
+        "location": "郑州",
+        "most_recent_tweet_id": "2086916302124568911",
+        "name": "音羽中导读（2.0）",
+        "pinned_tweet_id": "1968329547084186077",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/786464617031733248/1758120956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968328011276775424/doIwV-H7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 885,
+          "following_count": 3055,
+          "like_count": 2146,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 866
+        },
+        "url": "https://t.co/T15vXo3Mib",
+        "username": "QueerMasculism",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 部分推文发自 @yameta_www\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "yameta_www"
+              },
+              {
+                "end": 91,
+                "start": 76,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 119,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 96,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2086973118455652565",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1918274202580467713/1766419926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14869,
+          "following_count": 880,
+          "like_count": 33121,
+          "listed_count": 25,
+          "media_count": 2562,
+          "tweet_count": 11959
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

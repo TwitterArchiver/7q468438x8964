@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2087864647185785148",
+    "created_at": "2026-08-13T13:17:29.000Z",
+    "display_text_range": [
+      7,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T14:17:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087891290503745672"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1651908094912499712",
+          "start": 0,
+          "username": "ZgNq0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087891290503745672",
+    "in_reply_to_user_id": "1651908094912499712",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087864647185785148",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZgNq0 何基底"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24200,
+        "height": 720,
+        "media_key": "13_2087864514389901312",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2087864514389901312/img/WFBCdsWolIam75t2.jpg",
+        "public_metrics": {
+          "view_count": 14
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087864514389901312/vid/avc1/480x270/BkD_9t03r-B15zkV.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087864514389901312/vid/avc1/640x360/9f-77DiqYnd7gKY-.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087864514389901312/vid/avc1/1280x720/Ny-N3xNaLnpcRvKy.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2087864514389901312/pl/P_8wOvYd8mdD3R27.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2087864647185785148",
+        "created_at": "2026-08-13T13:17:29.000Z",
+        "display_text_range": [
+          7,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T14:17:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087891290503745672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1651908094912499712",
+              "start": 0,
+              "username": "ZgNq0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087891290503745672",
+        "in_reply_to_user_id": "1651908094912499712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087864647185785148",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZgNq0 何基底"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2087864514389901312"
+          ]
+        },
+        "author_id": "1651908094912499712",
+        "conversation_id": "2087864647185785148",
+        "created_at": "2026-08-13T11:31:37.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T12:31:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087864647185785148"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RIGJKBY1iG",
+              "end": 46,
+              "expanded_url": "https://x.com/ZgNq0/status/2087864647185785148/video/1",
+              "media_key": "13_2087864514389901312",
+              "start": 23,
+              "url": "https://t.co/RIGJKBY1iG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087864647185785148",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2087864514389901312"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喝下这瓶最苦的monster…（🈚️不良导向 https://t.co/RIGJKBY1iG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n   \n最最最最最最爱的宝宝  @QianQian_TwT  @_FanQie11_\n\nHOPE HAS OVERDISED",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 21,
+                "username": "QianQian_TwT"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "_FanQie11_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cleaningfounta…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cleaningfountain",
+                "start": 0,
+                "url": "https://t.co/cEoqqH1PbX"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "is_identity_verified": false,
+        "location": "1q84",
+        "most_recent_tweet_id": "2087891290503745672",
+        "name": "1.538964",
+        "pinned_tweet_id": "2065977354497978500",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1922574083348414464/1784892530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080615714399092736/jHgp3BCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 612,
+          "following_count": 3344,
+          "like_count": 22749,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 5621
+        },
+        "url": "https://t.co/cEoqqH1PbX",
+        "username": "7q468438x8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-04-28T11:16:07.000Z",
+        "description": "你家猫出门散步被我捡走了\n健康生活 远离滥用",
+        "id": "1651908094912499712",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087866941046411492",
+        "name": "ククも",
+        "pinned_tweet_id": "2038901700875133267",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1651908094912499712/1752231806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004242629450780672/RIrIXKTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 386,
+          "like_count": 6470,
+          "listed_count": 2,
+          "media_count": 639,
+          "tweet_count": 6590
+        },
+        "url": "",
+        "username": "ZgNq0",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

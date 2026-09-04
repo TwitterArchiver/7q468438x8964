@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086451447466696704",
+        "3_2086451456375443457"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2086451464692756777",
+    "created_at": "2026-08-09T13:56:08.000Z",
+    "display_text_range": [
+      0,
+      9
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T14:56:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086451464692756777"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AccYDN8NdV",
+          "end": 33,
+          "expanded_url": "https://x.com/7q468438x8964/status/2086451464692756777/photo/1",
+          "media_key": "3_2086451447466696704",
+          "start": 10,
+          "url": "https://t.co/AccYDN8NdV"
+        },
+        {
+          "display_url": "pic.x.com/AccYDN8NdV",
+          "end": 33,
+          "expanded_url": "https://x.com/7q468438x8964/status/2086451464692756777/photo/1",
+          "media_key": "3_2086451456375443457",
+          "start": 10,
+          "url": "https://t.co/AccYDN8NdV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086451464692756777",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2086451447466696704"
+      },
+      {
+        "media_key": "3_2086451456375443457"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "操蛋有兩個舌釘？！ https://t.co/AccYDN8NdV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2086451447466696704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPSQiXdaIAAZNof.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2086451456375443457",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPSQi4pa0AEQC9v.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086451447466696704",
+            "3_2086451456375443457"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2086451464692756777",
+        "created_at": "2026-08-09T13:56:08.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T14:56:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086451464692756777"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AccYDN8NdV",
+              "end": 33,
+              "expanded_url": "https://x.com/7q468438x8964/status/2086451464692756777/photo/1",
+              "media_key": "3_2086451447466696704",
+              "start": 10,
+              "url": "https://t.co/AccYDN8NdV"
+            },
+            {
+              "display_url": "pic.x.com/AccYDN8NdV",
+              "end": 33,
+              "expanded_url": "https://x.com/7q468438x8964/status/2086451464692756777/photo/1",
+              "media_key": "3_2086451456375443457",
+              "start": 10,
+              "url": "https://t.co/AccYDN8NdV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086451464692756777",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086451447466696704"
+          },
+          {
+            "media_key": "3_2086451456375443457"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "操蛋有兩個舌釘？！ https://t.co/AccYDN8NdV"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n   \n最最最最最最爱的宝宝 @FanQie_QianQian（已被ymm寄生👁） @QianQian_TwT  @_FanQie11_\n\nHOPE HAS OVERDISED",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 20,
+                "username": "FanQie_QianQian"
+              },
+              {
+                "end": 60,
+                "start": 47,
+                "username": "QianQian_TwT"
+              },
+              {
+                "end": 73,
+                "start": 62,
+                "username": "_FanQie11_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cleaningfounta…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cleaningfountain",
+                "start": 0,
+                "url": "https://t.co/cEoqqH1PbX"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "is_identity_verified": false,
+        "location": "1q84",
+        "most_recent_tweet_id": "2086451464692756777",
+        "name": "1.538964",
+        "pinned_tweet_id": "2065977354497978500",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1922574083348414464/1784892530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080615714399092736/jHgp3BCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 599,
+          "following_count": 3351,
+          "like_count": 22634,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 5603
+        },
+        "url": "https://t.co/cEoqqH1PbX",
+        "username": "7q468438x8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

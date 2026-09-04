@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088832161042608128"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2088832169867460624",
+    "created_at": "2026-08-16T03:36:12.000Z",
+    "display_text_range": [
+      0,
+      148
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T04:36:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088832169867460624"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BquN4WDLUY",
+          "end": 172,
+          "expanded_url": "https://x.com/7q468438x8964/status/2088832169867460624/photo/1",
+          "media_key": "3_2088832161042608128",
+          "start": 149,
+          "url": "https://t.co/BquN4WDLUY"
+        },
+        {
+          "display_url": "x.com/7q468438x8964/…",
+          "end": 196,
+          "expanded_url": "https://twitter.com/7q468438x8964/status/2088829941794353517",
+          "start": 173,
+          "url": "https://t.co/rZLg5qCRnM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088832169867460624",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088832161042608128"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088829941794353517",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "就比如說這位身高4m的朋友 他冒充操蛋 為了掩人耳目甚至把操蛋的讚賞媽掛在首頁 我甚至不知道我哪裏惹他不高興了 為啥要這麼搞我 我生日當天就開始這麼幹了 點進他的回覆可以看到 這個4m的b以操蛋的身份去到處罵人 不知道可能伯母當年一不小心保胎針打他腦袋上了 真心建議他去看看腦科 \n拜託轉帖謝謝喵 https://t.co/BquN4WDLUY https://t.co/rZLg5qCRnM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2065,
+        "media_key": "3_2088832161042608128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP0FyIpbMAA4jT4.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088832161042608128"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2088832169867460624",
+        "created_at": "2026-08-16T03:36:12.000Z",
+        "display_text_range": [
+          0,
+          148
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T04:36:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088832169867460624"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BquN4WDLUY",
+              "end": 172,
+              "expanded_url": "https://x.com/7q468438x8964/status/2088832169867460624/photo/1",
+              "media_key": "3_2088832161042608128",
+              "start": 149,
+              "url": "https://t.co/BquN4WDLUY"
+            },
+            {
+              "display_url": "x.com/7q468438x8964/…",
+              "end": 196,
+              "expanded_url": "https://twitter.com/7q468438x8964/status/2088829941794353517",
+              "start": 173,
+              "url": "https://t.co/rZLg5qCRnM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088832169867460624",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088832161042608128"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088829941794353517",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "就比如說這位身高4m的朋友 他冒充操蛋 為了掩人耳目甚至把操蛋的讚賞媽掛在首頁 我甚至不知道我哪裏惹他不高興了 為啥要這麼搞我 我生日當天就開始這麼幹了 點進他的回覆可以看到 這個4m的b以操蛋的身份去到處罵人 不知道可能伯母當年一不小心保胎針打他腦袋上了 真心建議他去看看腦科 \n拜託轉帖謝謝喵 https://t.co/BquN4WDLUY https://t.co/rZLg5qCRnM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2088829941794353517",
+        "created_at": "2026-08-16T03:27:21.000Z",
+        "display_text_range": [
+          0,
+          177
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T04:27:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088829941794353517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 28,
+              "id": "2088823399493906433",
+              "start": 13,
+              "username": "QianQian_8964_"
+            },
+            {
+              "end": 46,
+              "id": "2063228399586541568",
+              "start": 30,
+              "username": "_QianQian_8964_"
+            },
+            {
+              "end": 81,
+              "id": "2073780355434483712",
+              "start": 67,
+              "username": "QianQian_8964"
+            },
+            {
+              "end": 94,
+              "id": "2050947066709573632",
+              "start": 82,
+              "username": "KetChup_Mew"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088829941794353517",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "操蛋目前有四個號 分別是\n@QianQian_8964_ \n@_QianQian_8964_ \n都在尋回互關\n搶救中的兩個號 分別是\n@QianQian_8964\n@Ketchup_Mew \n除了以上提及到的號 其他的都是冒充的。。如果之後再有號被封 操蛋會再開新號 到時會再引用這條帖子。\nps操蛋有很多個號（）關注時要注意辨別真假。\n罵之前也是（）。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n   \n最最最最最最爱的宝宝  @QianQian_8964 @QianQian_8964_ @_FanQie11_\n\nHOPE HAS OVERDISED",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "QianQian_8964"
+              },
+              {
+                "end": 51,
+                "start": 36,
+                "username": "QianQian_8964_"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "_FanQie11_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cleaningfounta…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cleaningfountain",
+                "start": 0,
+                "url": "https://t.co/cEoqqH1PbX"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "is_identity_verified": false,
+        "location": "1q84",
+        "most_recent_tweet_id": "2088832169867460624",
+        "name": "1.538964",
+        "pinned_tweet_id": "2065977354497978500",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1922574083348414464/1784892530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080615714399092736/jHgp3BCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 616,
+          "following_count": 3343,
+          "like_count": 22830,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 5642
+        },
+        "url": "https://t.co/cEoqqH1PbX",
+        "username": "7q468438x8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2088260859563041236",
+    "created_at": "2026-08-14T18:13:00.000Z",
+    "display_text_range": [
+      32,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T19:13:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088328048907301115"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2087828220741857280",
+          "start": 0,
+          "username": "litonglitongihq"
+        },
+        {
+          "end": 31,
+          "id": "2073780355434483712",
+          "start": 17,
+          "username": "QianQian_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088328048907301115",
+    "in_reply_to_user_id": "2087828220741857280",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088305889501737066",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@litonglitongihq @QianQian_8964 乐子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2088260859563041236",
+        "created_at": "2026-08-14T18:13:00.000Z",
+        "display_text_range": [
+          32,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T19:13:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088328048907301115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2087828220741857280",
+              "start": 0,
+              "username": "litonglitongihq"
+            },
+            {
+              "end": 31,
+              "id": "2073780355434483712",
+              "start": 17,
+              "username": "QianQian_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088328048907301115",
+        "in_reply_to_user_id": "2087828220741857280",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088305889501737066",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@litonglitongihq @QianQian_8964 乐子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2087828220741857280",
+        "conversation_id": "2088260859563041236",
+        "created_at": "2026-08-14T16:44:57.000Z",
+        "display_text_range": [
+          15,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T17:44:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088305889501737066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2073780355434483712",
+              "start": 0,
+              "username": "QianQian_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088305889501737066",
+        "in_reply_to_user_id": "2073780355434483712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088260859563041236",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QianQian_8964 僵尸"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n   \n最最最最最最爱的宝宝  @QianQian_TwT  @_FanQie11_\n\nHOPE HAS OVERDISED",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 21,
+                "username": "QianQian_TwT"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "_FanQie11_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cleaningfounta…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cleaningfountain",
+                "start": 0,
+                "url": "https://t.co/cEoqqH1PbX"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "is_identity_verified": false,
+        "location": "1q84",
+        "most_recent_tweet_id": "2088328048907301115",
+        "name": "1.538964",
+        "pinned_tweet_id": "2065977354497978500",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1922574083348414464/1784892530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080615714399092736/jHgp3BCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 612,
+          "following_count": 3346,
+          "like_count": 22783,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 5626
+        },
+        "url": "https://t.co/cEoqqH1PbX",
+        "username": "7q468438x8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-13T09:07:46.000Z",
+        "description": "",
+        "id": "2087828220741857280",
+        "is_identity_verified": false,
+        "location": "浙江",
+        "most_recent_tweet_id": "2088305889501737066",
+        "name": "litong",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2087828220741857280/1786612502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087977391373299712/Cq6gJrwp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 4,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 55
+        },
+        "url": "",
+        "username": "litonglitongihq",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "狗修金♡ @7q468438x8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 5,
+                "username": "7q468438x8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/v79ODfNpxi"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088326664480829854",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2083730052878123308",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2073780355434483712/1783276015",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080615760960036864/u9TiZBT6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2639,
+          "following_count": 70,
+          "like_count": 4208,
+          "listed_count": 2,
+          "media_count": 84,
+          "tweet_count": 1139
+        },
+        "url": "https://t.co/v79ODfNpxi",
+        "username": "QianQian_8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

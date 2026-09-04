@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2088829941794353517",
+    "created_at": "2026-08-16T03:27:21.000Z",
+    "display_text_range": [
+      0,
+      177
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T04:27:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088829941794353517"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 28,
+          "id": "2088823399493906433",
+          "start": 13,
+          "username": "QianQian_8964_"
+        },
+        {
+          "end": 46,
+          "id": "2063228399586541568",
+          "start": 30,
+          "username": "_QianQian_8964_"
+        },
+        {
+          "end": 81,
+          "id": "2073780355434483712",
+          "start": 67,
+          "username": "QianQian_8964"
+        },
+        {
+          "end": 94,
+          "id": "2050947066709573632",
+          "start": 82,
+          "username": "KetChup_Mew"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088829941794353517",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "操蛋目前有四個號 分別是\n@QianQian_8964_ \n@_QianQian_8964_ \n都在尋回互關\n搶救中的兩個號 分別是\n@QianQian_8964\n@Ketchup_Mew \n除了以上提及到的號 其他的都是冒充的。。如果之後再有號被封 操蛋會再開新號 到時會再引用這條帖子。\nps操蛋有很多個號（）關注時要注意辨別真假。\n罵之前也是（）。"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [QianQian_8964].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "QianQian_8964",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "QianQian_8964"
+    },
+    {
+      "detail": "User has been suspended: [KetChup_Mew].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "KetChup_Mew",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "KetChup_Mew"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2088829941794353517",
+        "created_at": "2026-08-16T03:27:21.000Z",
+        "display_text_range": [
+          0,
+          177
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T04:27:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088829941794353517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 28,
+              "id": "2088823399493906433",
+              "start": 13,
+              "username": "QianQian_8964_"
+            },
+            {
+              "end": 46,
+              "id": "2063228399586541568",
+              "start": 30,
+              "username": "_QianQian_8964_"
+            },
+            {
+              "end": 81,
+              "id": "2073780355434483712",
+              "start": 67,
+              "username": "QianQian_8964"
+            },
+            {
+              "end": 94,
+              "id": "2050947066709573632",
+              "start": 82,
+              "username": "KetChup_Mew"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088829941794353517",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "操蛋目前有四個號 分別是\n@QianQian_8964_ \n@_QianQian_8964_ \n都在尋回互關\n搶救中的兩個號 分別是\n@QianQian_8964\n@Ketchup_Mew \n除了以上提及到的號 其他的都是冒充的。。如果之後再有號被封 操蛋會再開新號 到時會再引用這條帖子。\nps操蛋有很多個號（）關注時要注意辨別真假。\n罵之前也是（）。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n   \n最最最最最最爱的宝宝  @QianQian_8964 @QianQian_8964_ @_FanQie11_\n\nHOPE HAS OVERDISED",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "QianQian_8964"
+              },
+              {
+                "end": 51,
+                "start": 36,
+                "username": "QianQian_8964_"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "_FanQie11_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cleaningfounta…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cleaningfountain",
+                "start": 0,
+                "url": "https://t.co/cEoqqH1PbX"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "is_identity_verified": false,
+        "location": "1q84",
+        "most_recent_tweet_id": "2088829941794353517",
+        "name": "1.538964",
+        "pinned_tweet_id": "2065977354497978500",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1922574083348414464/1784892530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080615714399092736/jHgp3BCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 616,
+          "following_count": 3343,
+          "like_count": 22830,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 5641
+        },
+        "url": "https://t.co/cEoqqH1PbX",
+        "username": "7q468438x8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-16T03:06:05.000Z",
+        "description": "14世\n@7q468438x8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 4,
+                "username": "7q468438x8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/mDDFP5MlUz"
+              }
+            ]
+          }
+        },
+        "id": "2088823399493906433",
+        "is_identity_verified": false,
+        "location": "🚪",
+        "name": "番茄操蛋",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088826346969714688/-8dCODs5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 0
+        },
+        "url": "https://t.co/mDDFP5MlUz",
+        "username": "QianQian_8964_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-06T11:59:22.000Z",
+        "description": "",
+        "id": "2063228399586541568",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088818610223403350",
+        "name": "番茄操蛋",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088817754745053184/CrWfdunH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 117,
+          "like_count": 1836,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 1061
+        },
+        "url": "",
+        "username": "_QianQian_8964_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

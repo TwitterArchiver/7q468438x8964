@@ -1,0 +1,359 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2078278962371821951",
+    "created_at": "2026-08-12T14:13:18.000Z",
+    "display_text_range": [
+      10,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T15:13:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087542948108116279"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2066032587383144448",
+          "start": 0,
+          "username": "ototusn0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087542948108116279",
+    "in_reply_to_user_id": "2066032587383144448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078278962371821951",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ototusn0 太变态了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 99126,
+        "height": 720,
+        "media_key": "13_2078278922752675840",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2078278922752675840/img/SguhNYKzvPMOEaGU.jpg",
+        "public_metrics": {
+          "view_count": 11062
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078278922752675840/vid/avc1/320x320/OvvRF3rG7ToyPyRt.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078278922752675840/vid/avc1/540x540/PLQ4yLLvONOZk0sF.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078278922752675840/vid/avc1/720x720/kdHpWglgqHmkJ6KM.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2078278922752675840/pl/s1XQ9Hq8F57AmY-G.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2078278962371821951",
+        "created_at": "2026-08-12T14:13:18.000Z",
+        "display_text_range": [
+          10,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T15:13:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087542948108116279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2066032587383144448",
+              "start": 0,
+              "username": "ototusn0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087542948108116279",
+        "in_reply_to_user_id": "2066032587383144448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078278962371821951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ototusn0 太变态了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2078278922752675840"
+          ]
+        },
+        "author_id": "2066032587383144448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2078278962371821951",
+        "created_at": "2026-07-18T00:41:31.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-07-18T01:41:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078278962371821951"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ED4uPJnlDh",
+              "end": 41,
+              "expanded_url": "https://x.com/ototusn0/status/2078278962371821951/video/1",
+              "media_key": "13_2078278922752675840",
+              "start": 18,
+              "url": "https://t.co/ED4uPJnlDh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078278962371821951",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2078278922752675840"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 60,
+          "impression_count": 25862,
+          "like_count": 223,
+          "quote_count": 8,
+          "reply_count": 20,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "中西部情绪习近平《unhappy》 https://t.co/ED4uPJnlDh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n   \n最最最最最最爱的宝宝  @QianQian_TwT  @_FanQie11_\n\nHOPE HAS OVERDISED",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 21,
+                "username": "QianQian_TwT"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "_FanQie11_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cleaningfounta…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cleaningfountain",
+                "start": 0,
+                "url": "https://t.co/cEoqqH1PbX"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "is_identity_verified": false,
+        "location": "1q84",
+        "most_recent_tweet_id": "2087542948108116279",
+        "name": "1.538964",
+        "pinned_tweet_id": "2065977354497978500",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1922574083348414464/1784892530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080615714399092736/jHgp3BCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 606,
+          "following_count": 3342,
+          "like_count": 22744,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 5621
+        },
+        "url": "https://t.co/cEoqqH1PbX",
+        "username": "7q468438x8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-14T05:41:32.000Z",
+        "description": "亲自指挥，亲自部署😡😡😡😡\n（小号：@ej1flsxiJP）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "ej1flsxiJP"
+              }
+            ]
+          }
+        },
+        "id": "2066032587383144448",
+        "is_identity_verified": false,
+        "location": "京城十八大院",
+        "most_recent_tweet_id": "2087489657000849514",
+        "name": "小习没烦恼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2066032587383144448/1784165466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082629137504825344/h1nlsoJm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2222,
+          "following_count": 341,
+          "like_count": 1636,
+          "listed_count": 2,
+          "media_count": 151,
+          "tweet_count": 573
+        },
+        "url": "",
+        "username": "ototusn0",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

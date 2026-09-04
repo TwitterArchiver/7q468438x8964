@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2086863155721097259",
+    "created_at": "2026-08-11T01:09:15.000Z",
+    "display_text_range": [
+      10,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T02:09:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086983248362733656"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1438420916518539267",
+          "start": 0,
+          "username": "200x0x1x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086983248362733656",
+    "in_reply_to_user_id": "1438420916518539267",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086863155721097259",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@200x0x1x 想办法加到那人老婆 😸"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 655,
+        "media_key": "3_2086863148389466112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPYG-g6bgAAFndX.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1701,
+        "media_key": "3_2086863148343316480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPYG-gvbUAABJbv.jpg",
+        "width": 1046
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2086863155721097259",
+        "created_at": "2026-08-11T01:09:15.000Z",
+        "display_text_range": [
+          10,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T02:09:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086983248362733656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1438420916518539267",
+              "start": 0,
+              "username": "200x0x1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086983248362733656",
+        "in_reply_to_user_id": "1438420916518539267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086863155721097259",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@200x0x1x 想办法加到那人老婆 😸"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086863148389466112",
+            "3_2086863148343316480"
+          ]
+        },
+        "author_id": "1438420916518539267",
+        "conversation_id": "2086863155721097259",
+        "created_at": "2026-08-10T17:12:03.000Z",
+        "display_text_range": [
+          0,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T18:12:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086863155721097259"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5CKAMIHIKl",
+              "end": 90,
+              "expanded_url": "https://x.com/200x0x1x/status/2086863155721097259/photo/1",
+              "media_key": "3_2086863148389466112",
+              "start": 67,
+              "url": "https://t.co/5CKAMIHIKl"
+            },
+            {
+              "display_url": "pic.x.com/5CKAMIHIKl",
+              "end": 90,
+              "expanded_url": "https://x.com/200x0x1x/status/2086863155721097259/photo/1",
+              "media_key": "3_2086863148343316480",
+              "start": 67,
+              "url": "https://t.co/5CKAMIHIKl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086863155721097259",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086863148389466112"
+          },
+          {
+            "media_key": "3_2086863148343316480"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 7868,
+          "like_count": 45,
+          "quote_count": 2,
+          "reply_count": 37,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本人玩网以来最逆天的剧情来了。这个男的加我聊骚，他看我过得太惨了，决定把侄子介绍给我相亲。现在我和他们全家人爆了。全程一个小时速通。 https://t.co/5CKAMIHIKl"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n   \n最最最最最最爱的宝宝  @QianQian_TwT  @_FanQie11_\n\nHOPE HAS OVERDISED",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 21,
+                "username": "QianQian_TwT"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "_FanQie11_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cleaningfounta…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cleaningfountain",
+                "start": 0,
+                "url": "https://t.co/cEoqqH1PbX"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "is_identity_verified": false,
+        "location": "1q84",
+        "most_recent_tweet_id": "2086983248362733656",
+        "name": "1.538964",
+        "pinned_tweet_id": "2065977354497978500",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1922574083348414464/1784892530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080615714399092736/jHgp3BCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 605,
+          "following_count": 3346,
+          "like_count": 22712,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 5609
+        },
+        "url": "https://t.co/cEoqqH1PbX",
+        "username": "7q468438x8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧。🚪50纯绿看我发电",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/200x0x1x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/200x0x1x",
+                "start": 0,
+                "url": "https://t.co/OblpvUPL07"
+              }
+            ]
+          }
+        },
+        "id": "1438420916518539267",
+        "is_identity_verified": false,
+        "location": "UChicago",
+        "most_recent_tweet_id": "2086896218391904469",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1438420916518539267/1781583624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086617090992320512/axgkW42s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2483,
+          "following_count": 683,
+          "like_count": 29069,
+          "listed_count": 8,
+          "media_count": 2553,
+          "tweet_count": 28132
+        },
+        "url": "https://t.co/OblpvUPL07",
+        "username": "200x0x1x",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

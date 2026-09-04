@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2088196859659505664"
+      ],
+      "media_source_tweet_id": [
+        "2088196888478486904"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2088482670594671055",
+    "created_at": "2026-08-15T04:27:25.000Z",
+    "display_text_range": [
+      0,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T05:27:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088482670594671055"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2079878488954216448",
+          "start": 3,
+          "username": "xoxolovelayla"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ci3S4TYCR0",
+          "end": 42,
+          "expanded_url": "https://x.com/xoxolovelayla/status/2088196888478486904/video/1",
+          "media_key": "13_2088196859659505664",
+          "start": 19,
+          "url": "https://t.co/Ci3S4TYCR0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088482670594671055",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "13_2088196859659505664"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 631
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088196888478486904",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xoxolovelayla: https://t.co/Ci3S4TYCR0"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6130,
+        "height": 1080,
+        "media_key": "13_2088196859659505664",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2088196859659505664/img/c3WjTYPIf8RLKhqd.jpg",
+        "public_metrics": {
+          "view_count": 22425
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2088196859659505664/pl/adPd2nc_MACih_iL.m3u8"
+          },
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088196859659505664/vid/avc1/320x320/l2nTsBsrHFsfmnfj.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088196859659505664/vid/avc1/720x720/YafjWUrOd7xRml-b.mp4"
+          },
+          {
+            "bit_rate": 8768000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088196859659505664/vid/avc1/1080x1080/b9zIUOzrBuCcCsoV.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088196859659505664/vid/avc1/540x540/Nkalmyv_kvIfyuIP.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2088196859659505664"
+          ],
+          "media_source_tweet_id": [
+            "2088196888478486904"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2088482670594671055",
+        "created_at": "2026-08-15T04:27:25.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T05:27:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088482670594671055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2079878488954216448",
+              "start": 3,
+              "username": "xoxolovelayla"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ci3S4TYCR0",
+              "end": 42,
+              "expanded_url": "https://x.com/xoxolovelayla/status/2088196888478486904/video/1",
+              "media_key": "13_2088196859659505664",
+              "start": 19,
+              "url": "https://t.co/Ci3S4TYCR0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088482670594671055",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2088196859659505664"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 631
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088196888478486904",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xoxolovelayla: https://t.co/Ci3S4TYCR0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2088196859659505664"
+          ]
+        },
+        "author_id": "2079878488954216448",
+        "conversation_id": "2088196888478486904",
+        "created_at": "2026-08-14T09:31:49.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T10:31:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088196888478486904"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ci3S4TYCR0",
+              "end": 23,
+              "expanded_url": "https://x.com/xoxolovelayla/status/2088196888478486904/video/1",
+              "media_key": "13_2088196859659505664",
+              "start": 0,
+              "url": "https://t.co/Ci3S4TYCR0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088196888478486904",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2088196859659505664"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 275,
+          "impression_count": 70136,
+          "like_count": 5063,
+          "quote_count": 34,
+          "reply_count": 4,
+          "retweet_count": 631
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Ci3S4TYCR0"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n   \n最最最最最最爱的宝宝  @QianQian_TwT  @_FanQie11_\n\nHOPE HAS OVERDISED",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 21,
+                "username": "QianQian_TwT"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "_FanQie11_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cleaningfounta…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cleaningfountain",
+                "start": 0,
+                "url": "https://t.co/cEoqqH1PbX"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "is_identity_verified": false,
+        "location": "1q84",
+        "most_recent_tweet_id": "2088482684121280998",
+        "name": "1.538964",
+        "pinned_tweet_id": "2065977354497978500",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1922574083348414464/1784892530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080615714399092736/jHgp3BCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 613,
+          "following_count": 3343,
+          "like_count": 22787,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 5631
+        },
+        "url": "https://t.co/cEoqqH1PbX",
+        "username": "7q468438x8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-22T10:38:16.000Z",
+        "description": "♡ love, heartbreak & pretty lies♡",
+        "id": "2079878488954216448",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088309565846704228",
+        "name": "layla",
+        "pinned_tweet_id": "2087897536509906990",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2079878488954216448/1784717307",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079881122452799488/ossKs2H-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1648,
+          "following_count": 1416,
+          "like_count": 2857,
+          "listed_count": 3,
+          "media_count": 117,
+          "tweet_count": 519
+        },
+        "url": "",
+        "username": "xoxolovelayla",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

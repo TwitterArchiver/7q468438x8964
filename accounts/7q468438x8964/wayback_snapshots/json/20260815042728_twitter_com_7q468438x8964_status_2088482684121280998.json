@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088258082782707712"
+      ],
+      "media_source_tweet_id": [
+        "2088258087551631509"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2088482684121280998",
+    "created_at": "2026-08-15T04:27:28.000Z",
+    "display_text_range": [
+      0,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T05:27:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088482684121280998"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1163316822902366208",
+          "start": 3,
+          "username": "ElasticYamada"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NQgz6jgCpx",
+          "end": 49,
+          "expanded_url": "https://x.com/ElasticYamada/status/2088258087551631509/photo/1",
+          "media_key": "3_2088258082782707712",
+          "start": 26,
+          "url": "https://t.co/NQgz6jgCpx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088482684121280998",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2088258082782707712"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 575
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088258087551631509",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ElasticYamada: スーパーの裏 https://t.co/NQgz6jgCpx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 387,
+        "media_key": "3_2088258082782707712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPr7qYeaAAAg80Z.jpg",
+        "width": 516
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088258082782707712"
+          ],
+          "media_source_tweet_id": [
+            "2088258087551631509"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2088482684121280998",
+        "created_at": "2026-08-15T04:27:28.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T05:27:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088482684121280998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1163316822902366208",
+              "start": 3,
+              "username": "ElasticYamada"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NQgz6jgCpx",
+              "end": 49,
+              "expanded_url": "https://x.com/ElasticYamada/status/2088258087551631509/photo/1",
+              "media_key": "3_2088258082782707712",
+              "start": 26,
+              "url": "https://t.co/NQgz6jgCpx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088482684121280998",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2088258082782707712"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 575
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088258087551631509",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ElasticYamada: スーパーの裏 https://t.co/NQgz6jgCpx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088258082782707712"
+          ]
+        },
+        "author_id": "1163316822902366208",
+        "conversation_id": "2088258087551631509",
+        "created_at": "2026-08-14T13:35:00.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T14:35:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088258087551631509"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NQgz6jgCpx",
+              "end": 30,
+              "expanded_url": "https://x.com/ElasticYamada/status/2088258087551631509/photo/1",
+              "media_key": "3_2088258082782707712",
+              "start": 7,
+              "url": "https://t.co/NQgz6jgCpx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088258087551631509",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2088258082782707712"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 902,
+          "impression_count": 848736,
+          "like_count": 11725,
+          "quote_count": 49,
+          "reply_count": 40,
+          "retweet_count": 575
+        },
+        "reply_settings": "everyone",
+        "text": "スーパーの裏 https://t.co/NQgz6jgCpx"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n   \n最最最最最最爱的宝宝  @QianQian_TwT  @_FanQie11_\n\nHOPE HAS OVERDISED",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 21,
+                "username": "QianQian_TwT"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "_FanQie11_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cleaningfounta…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cleaningfountain",
+                "start": 0,
+                "url": "https://t.co/cEoqqH1PbX"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "is_identity_verified": false,
+        "location": "1q84",
+        "most_recent_tweet_id": "2088482684121280998",
+        "name": "1.538964",
+        "pinned_tweet_id": "2065977354497978500",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1922574083348414464/1784892530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080615714399092736/jHgp3BCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 613,
+          "following_count": 3343,
+          "like_count": 22787,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 5631
+        },
+        "url": "https://t.co/cEoqqH1PbX",
+        "username": "7q468438x8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-08-19T05:08:56.000Z",
+        "description": "B2 法 非アポ t出身t",
+        "id": "1163316822902366208",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088258087551631509",
+        "name": "もちっとした餃子",
+        "pinned_tweet_id": "2050095087452090807",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1163316822902366208/1753182174",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077405226102124544/OWXQlO7G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 945,
+          "following_count": 1122,
+          "like_count": 91897,
+          "listed_count": 10,
+          "media_count": 764,
+          "tweet_count": 8019
+        },
+        "url": "",
+        "username": "ElasticYamada",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

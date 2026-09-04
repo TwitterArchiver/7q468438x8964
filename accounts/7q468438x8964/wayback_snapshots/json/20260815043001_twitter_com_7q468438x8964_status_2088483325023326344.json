@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088401507112693761"
+      ],
+      "media_source_tweet_id": [
+        "2088401917688902124"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2088483325023326344",
+    "created_at": "2026-08-15T04:30:01.000Z",
+    "display_text_range": [
+      0,
+      75
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T05:30:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088483325023326344"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 41,
+          "start": 36,
+          "tag": "ヤニねこ"
+        },
+        {
+          "end": 51,
+          "start": 42,
+          "tag": "yanineko"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1680237894848356353",
+          "start": 3,
+          "username": "jk_arts07_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jx1KQmbA4k",
+          "end": 75,
+          "expanded_url": "https://x.com/jk_arts07_/status/2088401917688902124/photo/1",
+          "media_key": "3_2088401507112693761",
+          "start": 52,
+          "url": "https://t.co/jx1KQmbA4k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088483325023326344",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2088401507112693761"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 494
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088401917688902124",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jk_arts07_: Have a good weekend\n#ヤニねこ #yanineko https://t.co/jx1KQmbA4k"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1120,
+        "media_key": "3_2088401507112693761",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPt-GxvXsAEjd8J.jpg",
+        "width": 840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088401507112693761"
+          ],
+          "media_source_tweet_id": [
+            "2088401917688902124"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2088483325023326344",
+        "created_at": "2026-08-15T04:30:01.000Z",
+        "display_text_range": [
+          0,
+          75
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T05:30:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088483325023326344"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 36,
+              "tag": "ヤニねこ"
+            },
+            {
+              "end": 51,
+              "start": 42,
+              "tag": "yanineko"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1680237894848356353",
+              "start": 3,
+              "username": "jk_arts07_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jx1KQmbA4k",
+              "end": 75,
+              "expanded_url": "https://x.com/jk_arts07_/status/2088401917688902124/photo/1",
+              "media_key": "3_2088401507112693761",
+              "start": 52,
+              "url": "https://t.co/jx1KQmbA4k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088483325023326344",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2088401507112693761"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 494
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088401917688902124",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jk_arts07_: Have a good weekend\n#ヤニねこ #yanineko https://t.co/jx1KQmbA4k"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088401507112693761"
+          ]
+        },
+        "author_id": "1680237894848356353",
+        "conversation_id": "2088401917688902124",
+        "created_at": "2026-08-14T23:06:32.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T00:06:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088401917688902124"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 20,
+              "tag": "ヤニねこ"
+            },
+            {
+              "end": 35,
+              "start": 26,
+              "tag": "yanineko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jx1KQmbA4k",
+              "end": 59,
+              "expanded_url": "https://x.com/jk_arts07_/status/2088401917688902124/photo/1",
+              "media_key": "3_2088401507112693761",
+              "start": 36,
+              "url": "https://t.co/jx1KQmbA4k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088401917688902124",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2088401507112693761"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 881,
+          "impression_count": 56340,
+          "like_count": 9027,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 494
+        },
+        "reply_settings": "everyone",
+        "text": "Have a good weekend\n#ヤニねこ #yanineko https://t.co/jx1KQmbA4k"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n   \n最最最最最最爱的宝宝  @QianQian_TwT  @_FanQie11_\n\nHOPE HAS OVERDISED",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 21,
+                "username": "QianQian_TwT"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "_FanQie11_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cleaningfounta…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cleaningfountain",
+                "start": 0,
+                "url": "https://t.co/cEoqqH1PbX"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "is_identity_verified": false,
+        "location": "1q84",
+        "most_recent_tweet_id": "2088483325023326344",
+        "name": "1.538964",
+        "pinned_tweet_id": "2065977354497978500",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1922574083348414464/1784892530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080615714399092736/jHgp3BCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 613,
+          "following_count": 3343,
+          "like_count": 22795,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 5634
+        },
+        "url": "https://t.co/cEoqqH1PbX",
+        "username": "7q468438x8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-15T15:29:46.000Z",
+        "description": "Fanartist_ Waifus & Memes (Cuenta alterna)\nPrincipal @jk_arts07",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "jk_arts07"
+              }
+            ]
+          }
+        },
+        "id": "1680237894848356353",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088401917688902124",
+        "name": "JK_arts07",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1680237894848356353/1776742256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046431456424300544/q1dQyFSl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19450,
+          "following_count": 126,
+          "like_count": 37,
+          "listed_count": 61,
+          "media_count": 55,
+          "tweet_count": 77
+        },
+        "url": "",
+        "username": "jk_arts07_",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
