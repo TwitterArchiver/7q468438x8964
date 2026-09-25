@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2038812396752707906",
+    "created_at": "2026-09-17T15:12:33.000Z",
+    "display_text_range": [
+      14,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T16:12:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100603823953961077"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2035361772828565504",
+          "start": 0,
+          "username": "Neeeeekodayo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100603823953961077",
+    "in_reply_to_user_id": "2035361772828565504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038812396752707906",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Neeeeekodayo 妈妈骂我"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2038812396752707906].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2038812396752707906",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2038812396752707906"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2038812396752707906",
+        "created_at": "2026-09-17T15:12:33.000Z",
+        "display_text_range": [
+          14,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T16:12:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100603823953961077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2035361772828565504",
+              "start": 0,
+              "username": "Neeeeekodayo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100603823953961077",
+        "in_reply_to_user_id": "2035361772828565504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038812396752707906",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Neeeeekodayo 妈妈骂我"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n \n最最最最最最爱的宝宝 @QianQian_8964 @QianQian_8964_  @_QianQian_8964_\n\nHOPE HAS OVERDISED",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 18,
+                "username": "QianQian_8964"
+              },
+              {
+                "end": 48,
+                "start": 33,
+                "username": "QianQian_8964_"
+              },
+              {
+                "end": 66,
+                "start": 50,
+                "username": "_QianQian_8964_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cleaningfounta…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cleaningfountain",
+                "start": 0,
+                "url": "https://t.co/cEoqqH1PbX"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "is_identity_verified": false,
+        "location": "1q84",
+        "most_recent_tweet_id": "2100603823953961077",
+        "name": "1.538964",
+        "pinned_tweet_id": "2065977354497978500",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1922574083348414464/1784892530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080615714399092736/jHgp3BCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 688,
+          "following_count": 3274,
+          "like_count": 22887,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 5664
+        },
+        "url": "https://t.co/cEoqqH1PbX",
+        "username": "7q468438x8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-21T14:24:50.000Z",
+        "description": "不认识的直接拉黑",
+        "id": "2035361772828565504",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089490126514839864",
+        "name": "nekooo",
+        "pinned_tweet_id": "2038812396752707906",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035361772828565504/1789484944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099877646138322944/eBC8ozYu_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 33,
+          "like_count": 369,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 87
+        },
+        "url": "",
+        "username": "Neeeeekodayo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

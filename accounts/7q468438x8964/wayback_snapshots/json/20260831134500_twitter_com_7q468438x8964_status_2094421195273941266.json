@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094421191335522306"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2094421195273941266",
+    "created_at": "2026-08-31T13:45:00.000Z",
+    "display_text_range": [
+      0,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T14:45:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094421195273941266"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jAhNh1Cgq7",
+          "end": 43,
+          "expanded_url": "https://x.com/7q468438x8964/status/2094421195273941266/photo/1",
+          "media_key": "3_2094421191335522306",
+          "start": 20,
+          "url": "https://t.co/jAhNh1Cgq7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094421195273941266",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2094421191335522306"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "目前看来应该是知道的 知道的人多少而已 https://t.co/jAhNh1Cgq7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1145,
+        "media_key": "3_2094421191335522306",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRDg-g-asAICCNp.jpg",
+        "width": 1843
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094421191335522306"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2094421195273941266",
+        "created_at": "2026-08-31T13:45:00.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T14:45:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094421195273941266"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jAhNh1Cgq7",
+              "end": 43,
+              "expanded_url": "https://x.com/7q468438x8964/status/2094421195273941266/photo/1",
+              "media_key": "3_2094421191335522306",
+              "start": 20,
+              "url": "https://t.co/jAhNh1Cgq7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094421195273941266",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094421191335522306"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "目前看来应该是知道的 知道的人多少而已 https://t.co/jAhNh1Cgq7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n \n最最最最最最爱的宝宝 @QianQian_8964 @QianQian_8964_  @_QianQian_8964_\n\nHOPE HAS OVERDISED",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 18,
+                "username": "QianQian_8964"
+              },
+              {
+                "end": 48,
+                "start": 33,
+                "username": "QianQian_8964_"
+              },
+              {
+                "end": 66,
+                "start": 50,
+                "username": "_QianQian_8964_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cleaningfounta…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cleaningfountain",
+                "start": 0,
+                "url": "https://t.co/cEoqqH1PbX"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "is_identity_verified": false,
+        "location": "1q84",
+        "most_recent_tweet_id": "2094421195273941266",
+        "name": "1.538964",
+        "pinned_tweet_id": "2065977354497978500",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1922574083348414464/1784892530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080615714399092736/jHgp3BCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 625,
+          "following_count": 3285,
+          "like_count": 22996,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 5643
+        },
+        "url": "https://t.co/cEoqqH1PbX",
+        "username": "7q468438x8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

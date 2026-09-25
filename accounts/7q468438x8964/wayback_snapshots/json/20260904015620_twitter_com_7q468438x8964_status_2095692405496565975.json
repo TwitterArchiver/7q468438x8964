@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2095486273230348496",
+    "created_at": "2026-09-04T01:56:20.000Z",
+    "display_text_range": [
+      42,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T02:56:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095692405496565975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1417155588551847937",
+          "start": 0,
+          "username": "JealousDevil9"
+        },
+        {
+          "end": 28,
+          "id": "792247316174344192",
+          "start": 15,
+          "username": "NikoSongMGGA"
+        },
+        {
+          "end": 41,
+          "id": "1117815871773130752",
+          "start": 29,
+          "username": "katyusha404"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095692405496565975",
+    "in_reply_to_user_id": "1417155588551847937",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095668346800976348",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JealousDevil9 @NikoSongMGGA @katyusha404 月抛男月抛男"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2095668346800976348].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2095668346800976348",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2095668346800976348"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2095486273230348496",
+        "created_at": "2026-09-04T01:56:20.000Z",
+        "display_text_range": [
+          42,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T02:56:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095692405496565975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1417155588551847937",
+              "start": 0,
+              "username": "JealousDevil9"
+            },
+            {
+              "end": 28,
+              "id": "792247316174344192",
+              "start": 15,
+              "username": "NikoSongMGGA"
+            },
+            {
+              "end": 41,
+              "id": "1117815871773130752",
+              "start": 29,
+              "username": "katyusha404"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095692405496565975",
+        "in_reply_to_user_id": "1417155588551847937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095668346800976348",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JealousDevil9 @NikoSongMGGA @katyusha404 月抛男月抛男"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n \n最最最最最最爱的宝宝 @QianQian_8964 @QianQian_8964_  @_QianQian_8964_\n\nHOPE HAS OVERDISED",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 18,
+                "username": "QianQian_8964"
+              },
+              {
+                "end": 48,
+                "start": 33,
+                "username": "QianQian_8964_"
+              },
+              {
+                "end": 66,
+                "start": 50,
+                "username": "_QianQian_8964_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cleaningfounta…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cleaningfountain",
+                "start": 0,
+                "url": "https://t.co/cEoqqH1PbX"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "is_identity_verified": false,
+        "location": "1q84",
+        "most_recent_tweet_id": "2095692405496565975",
+        "name": "1.538964",
+        "pinned_tweet_id": "2065977354497978500",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1922574083348414464/1784892530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080615714399092736/jHgp3BCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 639,
+          "following_count": 3274,
+          "like_count": 23093,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 5656
+        },
+        "url": "https://t.co/cEoqqH1PbX",
+        "username": "7q468438x8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-07-19T16:13:29.000Z",
+        "description": "祈求歡愉",
+        "id": "1417155588551847937",
+        "is_identity_verified": false,
+        "location": "Null",
+        "most_recent_tweet_id": "2036720581497012622",
+        "name": "サヤ₂",
+        "pinned_tweet_id": "1873222086057168919",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1417155588551847937/1723868435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1711707302880026624/uOqSDoE1_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 975,
+          "following_count": 2885,
+          "like_count": 165651,
+          "listed_count": 11,
+          "media_count": 2112,
+          "tweet_count": 27854
+        },
+        "url": "",
+        "username": "JealousDevil9",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-10-29T06:10:54.000Z",
+        "description": "Male♂️\n全手动色图转发Bot\n实名上网\nQQ/Discord/FB/WhatsApp👌\nFUCK WeChat🤌🖕\nMandarin/English👌\n纸性恋/车性恋/算是同性恋\n唯一指定大老婆Subaru BRZ ZC6\nVRCHAT/SF6加我!",
+        "id": "792247316174344192",
+        "is_identity_verified": false,
+        "location": "江苏常州/Prince Albert,SK,Canada",
+        "most_recent_tweet_id": "2095539123339845848",
+        "name": "NikoSong 🇨🇳 🇨🇦",
+        "pinned_tweet_id": "1747207064076636583",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/792247316174344192/1738969902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886439610235883521/v5mFj2oz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 5308,
+          "like_count": 61255,
+          "listed_count": 4,
+          "media_count": 86,
+          "tweet_count": 17815
+        },
+        "url": "",
+        "username": "NikoSongMGGA",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-04-15T15:44:06.000Z",
+        "description": "20030327",
+        "id": "1117815871773130752",
+        "is_identity_verified": false,
+        "location": "Finland",
+        "most_recent_tweet_id": "1801404639260328121",
+        "name": "lyudmila4041",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1117815871773130752/1555343783",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072139621698527232/X20j-11f_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 138,
+          "like_count": 706,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 10
+        },
+        "url": "",
+        "username": "katyusha404",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
