@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1922574083348414464",
+    "conversation_id": "2106615892616646805",
+    "created_at": "2026-10-05T13:02:18.000Z",
+    "display_text_range": [
+      25,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T14:02:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107094025849491527"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1661759505162711040",
+          "start": 0,
+          "username": "alielie_qq"
+        },
+        {
+          "end": 24,
+          "id": "357539288",
+          "start": 12,
+          "username": "rin917_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107094025849491527",
+    "in_reply_to_user_id": "1661759505162711040",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106920480490037576",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@alielie_qq @rin917_8964 有品"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2106615892616646805",
+        "created_at": "2026-10-05T13:02:18.000Z",
+        "display_text_range": [
+          25,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T14:02:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107094025849491527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1661759505162711040",
+              "start": 0,
+              "username": "alielie_qq"
+            },
+            {
+              "end": 24,
+              "id": "357539288",
+              "start": 12,
+              "username": "rin917_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107094025849491527",
+        "in_reply_to_user_id": "1661759505162711040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106920480490037576",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@alielie_qq @rin917_8964 有品"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1661759505162711040",
+        "conversation_id": "2106615892616646805",
+        "created_at": "2026-10-05T01:32:41.000Z",
+        "display_text_range": [
+          13,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T02:32:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106920480490037576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "357539288",
+              "start": 0,
+              "username": "rin917_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106920480490037576",
+        "in_reply_to_user_id": "357539288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 97,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106615892616646805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rin917_8964 让所有理智都埋没在阴道深处。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n \n最最最最最最爱的宝宝 @QianQian_8964_ @uwu8964 \n\nHOPE HAS OVERDISED",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 18,
+                "username": "QianQian_8964_"
+              },
+              {
+                "end": 42,
+                "start": 34,
+                "username": "uwu8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cleaningfounta…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cleaningfountain",
+                "start": 0,
+                "url": "https://t.co/cEoqqH2n1v"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "is_identity_verified": false,
+        "location": "1q84",
+        "most_recent_tweet_id": "2107094025849491527",
+        "name": "1.538964",
+        "pinned_tweet_id": "2065977354497978500",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1922574083348414464/1784892530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080615714399092736/jHgp3BCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 774,
+          "following_count": 3251,
+          "like_count": 22932,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 5676
+        },
+        "url": "https://t.co/cEoqqH2n1v",
+        "username": "7q468438x8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-25T15:42:10.000Z",
+        "description": "這裡是qianyun愆昀 可以叫我千云（千雲也行了）\n交友歡迎！！會fo我喜歡的人\n2011.7.5 性別酷兒 \n🔪🚬💊精神疾病 ADHD\n存在主義 建構主義 由此展開對世界的理解\n為可溝通個體 隨意人身攻擊默認智力障礙\n前世@qianyunhr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 113,
+                "username": "qianyunhr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qianyunhr",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qianyunhr",
+                "start": 0,
+                "url": "https://t.co/tpUs9EAzyO"
+              }
+            ]
+          }
+        },
+        "id": "1661759505162711040",
+        "is_identity_verified": false,
+        "location": "香椿树街",
+        "most_recent_tweet_id": "2107090927353475109",
+        "name": "qianyun2.0",
+        "pinned_tweet_id": "2105830688306200892",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1661759505162711040/1790916366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105231678138703872/COKpykQo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 92,
+          "like_count": 1434,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 318
+        },
+        "url": "https://t.co/tpUs9EAzyO",
+        "username": "alielie_qq",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-08-18T14:39:37.000Z",
+        "description": "我恨msk收了我的钱还这样【寻回推u】\n- ✰*🎀 ੈ✩🍥✰*💗ੈ✩-\n互联网永生 同类fo/我是低龄糖逼，别和我计较了，\n宇宙级严重失眠 -12现役初中生\n^✟❀里号@yumumu_msknb❀\n工作号@AminoXx_killer\n❀姐姐大人@NEKONO14❀\n❀💞@woaiuai0721❀✟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 84,
+                "username": "yumumu_msknb"
+              },
+              {
+                "end": 117,
+                "start": 102,
+                "username": "AminoXx_killer"
+              },
+              {
+                "end": 132,
+                "start": 123,
+                "username": "NEKONO14"
+              },
+              {
+                "end": 148,
+                "start": 136,
+                "username": "woaiuai0721"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ii_rin/pix",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ii_rin/pix",
+                "start": 0,
+                "url": "https://t.co/dMn9bxVA8H"
+              }
+            ]
+          }
+        },
+        "id": "357539288",
+        "is_identity_verified": false,
+        "location": "你看看你身后",
+        "most_recent_tweet_id": "2107071221909319917",
+        "name": "传奇病娇18.霖",
+        "pinned_tweet_id": "2105360079868563555",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/357539288/1789783693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106747764986265600/j8egGsOC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2332,
+          "following_count": 503,
+          "like_count": 3713,
+          "listed_count": 1,
+          "media_count": 205,
+          "tweet_count": 2157
+        },
+        "url": "https://t.co/dMn9bxVA8H",
+        "username": "rin917_8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2105515009069785089"
+      ],
+      "media_source_tweet_id": [
+        "2105515062798713203"
+      ]
+    },
+    "author_id": "1922574083348414464",
+    "conversation_id": "2105646172660732043",
+    "created_at": "2026-10-01T13:09:03.000Z",
+    "display_text_range": [
+      0,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T14:09:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105646172660732043"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2103590351080771584",
+          "start": 3,
+          "username": "uwu8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZAah8v39wE",
+          "end": 50,
+          "expanded_url": "https://x.com/uwu8964/status/2105515062798713203/video/1",
+          "media_key": "13_2105515009069785089",
+          "start": 27,
+          "url": "https://t.co/ZAah8v39wE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105646172660732043",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2105515009069785089"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105515062798713203",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @uwu8964: msk這個騷逼我玩過了很潤 https://t.co/ZAah8v39wE"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8191,
+        "height": 1280,
+        "media_key": "13_2105515009069785089",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2105515009069785089/img/dGRgxRhmOuRZoCpl.jpg",
+        "public_metrics": {
+          "view_count": 632
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105515009069785089/vid/avc1/320x568/-gO_ETn9Hl08Umsu.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105515009069785089/vid/avc1/480x852/weYLxUM2KgzFOYSD.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105515009069785089/vid/avc1/720x1280/nxLoPUjDnYsJdk-b.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2105515009069785089/pl/YOL82nYhDW3cVA-2.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2105515009069785089"
+          ],
+          "media_source_tweet_id": [
+            "2105515062798713203"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2105646172660732043",
+        "created_at": "2026-10-01T13:09:03.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T14:09:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105646172660732043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2103590351080771584",
+              "start": 3,
+              "username": "uwu8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZAah8v39wE",
+              "end": 50,
+              "expanded_url": "https://x.com/uwu8964/status/2105515062798713203/video/1",
+              "media_key": "13_2105515009069785089",
+              "start": 27,
+              "url": "https://t.co/ZAah8v39wE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105646172660732043",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2105515009069785089"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105515062798713203",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @uwu8964: msk這個騷逼我玩過了很潤 https://t.co/ZAah8v39wE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2105515009069785089"
+          ]
+        },
+        "author_id": "2103590351080771584",
+        "conversation_id": "2105515062798713203",
+        "created_at": "2026-10-01T04:28:04.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T05:28:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105515062798713203"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZAah8v39wE",
+              "end": 37,
+              "expanded_url": "https://x.com/uwu8964/status/2105515062798713203/video/1",
+              "media_key": "13_2105515009069785089",
+              "start": 14,
+              "url": "https://t.co/ZAah8v39wE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105515062798713203",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2105515009069785089"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1309,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "msk這個騷逼我玩過了很潤 https://t.co/ZAah8v39wE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n \n最最最最最最爱的宝宝 @uwu8964\n\nHOPE HAS OVERDISED",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 18,
+                "username": "uwu8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cleaningfounta…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cleaningfountain",
+                "start": 0,
+                "url": "https://t.co/cEoqqH2n1v"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "is_identity_verified": false,
+        "location": "1q84",
+        "most_recent_tweet_id": "2105646172660732043",
+        "name": "1.538964",
+        "pinned_tweet_id": "2065977354497978500",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1922574083348414464/1784892530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080615714399092736/jHgp3BCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 729,
+          "following_count": 3238,
+          "like_count": 22917,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 5665
+        },
+        "url": "https://t.co/cEoqqH2n1v",
+        "username": "7q468438x8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-25T21:01:40.000Z",
+        "description": "I don’t fucking care",
+        "id": "2103590351080771584",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105645943374962800",
+        "name": "番茄操蛋🏳️‍⚧️",
+        "pinned_tweet_id": "2105370737829916693",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2103590351080771584/1790794541",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105368005270228993/ORHAOaDx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 79,
+          "like_count": 67,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 87
+        },
+        "url": "",
+        "username": "uwu8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
