@@ -1,7 +1,7 @@
 {
   "name": "1.538964",
   "username": "@7q468438x8964",
-  "bio": "共情之神\n \n最最最最最最爱的宝宝 @QianQian_8964 @QianQian_8964_  @_QianQian_8964_\n\nHOPE HAS OVERDISED",
+  "bio": "共情之神\n \n最最最最最最爱的宝宝 @_QianQian_8964_\n\nHOPE HAS OVERDISED",
   "location": "1q84",
   "link": "https://ngl.link/cleaningfountain",
   "avatar": "avatar/avatar.jpg",
@@ -10,18 +10,8 @@
   "bio_entities": {
     "mentions": [
       {
-        "end": 32,
+        "end": 34,
         "start": 18,
-        "username": "QianQian_8964"
-      },
-      {
-        "end": 48,
-        "start": 33,
-        "username": "QianQian_8964_"
-      },
-      {
-        "end": 66,
-        "start": 50,
         "username": "_QianQian_8964_"
       }
     ]
